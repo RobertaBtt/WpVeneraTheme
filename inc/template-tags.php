@@ -152,11 +152,11 @@ if ( ! function_exists( 'venera_post_meta_top' ) ) :
 function venera_post_meta_top() {
 
 	printf( __( '<ul>
-								<li>%1$s</li>
-								<li>Posted on <a href="%2$s" title="%3$s" rel="bookmark"><time class="entry-date" datetime="%4$s">%5$s</time></a></li>
-								<li><span class="byline"> by <span class="author vcard"><a class="url fn n" href="%6$s" title="%7$s" rel="author">%8$s</a></span></span></li>
-								<li><a href="%9$s">%10$s</a></li>
-							</ul>', 'venera' ),
+                        <li>%1$s</li>
+                        <li>Posted on <a href="%2$s" title="%3$s" rel="bookmark"><time class="entry-date" datetime="%4$s">%5$s</time></a></li>
+                        <li><span class="byline"> by <span class="author vcard"><a class="url fn n" href="%6$s" title="%7$s" rel="author">%8$s</a></span></span></li>
+                        <li><a href="%9$s">%10$s</a></li>
+                    </ul>', 'venera' ),
 		get_the_tag_list( '<div class="entry-meta-tags">Tags: ', '', '</div>' ),
 		esc_url( get_permalink() ),
 		esc_attr( get_the_time() ),

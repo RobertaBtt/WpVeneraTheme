@@ -174,7 +174,19 @@ function venera_setup() {
 	/**
 	 * Enable support for Post Thumbnails
 	 */
-	add_theme_support( 'post-thumbnails' );
+        
+        if ( function_exists( 'add_theme_support' ) ) {
+            add_theme_support( 'post-thumbnails' );
+            set_post_thumbnail_size( 350, 300, true ); // default Featured Image dimensions (cropped)
+
+            // additional image sizes
+            // delete the next line if you do not need additional image sizes
+            add_image_size( 'category-thumb', 300, 350 ); // 300 pixels wide (and unlimited height)
+         }
+ 
+	//add_theme_support( 'post-thumbnails' );
+        
+        //add_image_size(350, 300);
 
 	/**
 	 * This theme uses wp_nav_menu() in two location.

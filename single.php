@@ -14,22 +14,20 @@ $content_span = is_active_sidebar('sidebar-default') ? 'span8' : 'span8 offset2'
         <div class="row">
             <div class='span8'>
                 <div class='single-post-w'>
-
-                </div>
-                </div>
-                
-            <div class="<?php echo $content_span; ?>">
-                <?php while ( have_posts() ) : the_post(); ?>
-                    <?php get_template_part( 'content', 'single' ); ?>
-                    <?php venera_content_nav( 'nav-below' ); ?>
-                    <?php
-                        // If comments are open or we have at least one comment, load up the comment template
-                        if ( comments_open() || '0' != get_comments_number() )
-                            comments_template();
-                    ?>
+                    <?php while ( have_posts() ) : the_post(); ?>
+                        <?php get_template_part( 'content', 'single' ); ?>
+                        <?php venera_content_nav( 'nav-below' ); ?>
+                        <?php
+                            // If comments are open or we have at least one comment, load up the comment template
+                            if ( comments_open() || '0' != get_comments_number() )
+                                comments_template();
+                        ?>
                    
-                <?php endwhile; // end of the loop. ?>
+                    <?php endwhile; // end of the loop. ?>
+                </div>
             </div>
+                
+                
 			<?php
 			# If sidebar has widgets - show it, otherwise don't
 			//if ( is_active_sidebar('sidebar-default') ): ?>
