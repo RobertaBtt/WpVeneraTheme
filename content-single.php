@@ -33,7 +33,8 @@
 </p>
 
 <div class='single-post-image bottom decor-image'>
-  <img alt="Image-placeholder-1" src=<?php the_post_thumbnail( 'full' ); ?></img>
+  <img alt="<?php the_title(); ?> Image attachment"
+       src=<?php the_post_thumbnail( 'full' ); ?></img>
 </div>
 
 <div class='post-content'>

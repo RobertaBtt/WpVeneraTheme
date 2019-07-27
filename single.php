@@ -27,14 +27,14 @@ $content_span = is_active_sidebar('sidebar-default') ? 'span8' : 'span8 offset2'
                 </div>
             </div>
                 
-                
-			<?php
-			# If sidebar has widgets - show it, otherwise don't
-			//if ( is_active_sidebar('sidebar-default') ): ?>
-			<div class="span4">
-				<?php get_sidebar( 'sidebar-default' ); ?>
-			</div>
-			<?php //endif; ?>
+
+                <?php
+                # If sidebar has widgets - show it, otherwise don't
+                //if ( is_active_sidebar('sidebar-default') ): ?>
+                <div class="span4">
+                        <?php get_sidebar( 'sidebar-default' ); ?>
+                </div>
+                <?php //endif; ?>
 		</div>
 	</div>
 </section>
