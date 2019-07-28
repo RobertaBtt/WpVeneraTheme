@@ -1,0 +1,262 @@
+
+/**
+*
+* POSTS
+*
+**/
+article.post {
+
+}
+
+
+/*******************************/
+/* POST WITH WORDPRESS GALLERY */
+/*******************************/
+
+
+.format-gallery {
+  .gallery-item {
+    img {
+      padding: 5px;
+      border: 1px solid darken(@bodyBackground, 30%)!important;
+      .box-shadow(0px 1px 4px 0px darken(@bodyBackground, 10%));
+      margin-bottom: 5px;
+    }
+    .gallery-caption {
+      font-size: @baseFontSize - 3;
+      line-height: @baseLineHeight - 5;
+    }
+  }
+}
+
+
+
+
+/*********************/
+/* REGULAR POST TYPE AND SOME STYLES FOR PAGE SEARCH RESULT */
+/*********************/
+
+
+article.post.type-post {
+  padding: @postContentPadding;
+  .box-shadow(@postContentShadow);
+  border: @postContentBorder;
+  margin-bottom: 30px;
+  .border-radius(@postContentRadius);
+  #gradient > .vertical(@postContentBackgroundHighlight, @postContentBackground);
+
+  .entry-meta {
+    .second-font();
+  }
+
+  header.entry-header {
+    h1 {
+      margin-bottom: 20px;
+      a {
+        color: @headingsColor;
+      }
+    }
+    .entry-meta {
+      padding: @postMetaPadding;
+      border: @postMetaBorder;
+      border-color: @postMetaBorderColors;
+      .box-shadow(@postMetaShadow);
+      #gradient > .vertical(@postMetaBackgroundHighlight, @postMetaBackground);
+      .border-radius(@postMetaRadius);
+
+      margin-bottom: 20px;
+      ul {
+        list-style: none;
+        margin: 0px;
+
+        li {
+          .inline-block();
+          padding-right: 10px;
+          margin-right: 10px;
+          border-right: 1px solid darken(@bodyBackground, 10%);
+          font-size: @baseFontSize - 3;
+          line-height: @baseLineHeight - 5;
+          text-transform: uppercase;
+        }
+      }
+    }
+    .entry-meta-tags {
+      a {
+        padding: 2px 5px;
+        background-color: @postEntryTagBackground;
+        color: @postEntryTagColor;
+        text-shadow: @postEntryTagTextShadow;
+        text-transform: uppercase;
+        border: @postEntryTagBorder;
+        margin-left: 5px;
+        .inline-block();
+        margin-bottom: 2px;
+        .box-shadow(@postEntryTagShadow);
+        .border-radius(@postEntryTagRadius);
+        line-height: 18px;
+        &:hover {
+          text-decoration: none;
+          background-color: lighten(@postEntryTagBackground, 10%);
+        }
+      }
+    }
+  }
+  .entry-content {
+    font-size: 18px;
+    line-height: 26px;
+    font-weight: @primaryFontWeightThin;
+    word-break: break-all;
+  }
+  footer.entry-meta {
+    border-top: 1px solid darken(@bodyBackground, 30%);
+    margin-top: 20px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+  }
+}
+
+
+/**************************/
+/*   SEARCH RESULTS       */
+/**************************/
+.search-results-w article.page.type-page {
+  padding: @postContentPadding;
+  .box-shadow(@postContentShadow);
+  border: @postContentBorder;
+  margin-bottom: 30px;
+  .border-radius(@postContentRadius);
+  #gradient > .vertical(@postContentBackgroundHighlight, @postContentBackground);
+
+  .entry-meta {
+    .second-font();
+  }
+
+  header.entry-header {
+    h1 {
+      margin-bottom: 20px;
+      a {
+        color: @headingsColor;
+      }
+    }
+  }
+}
+
+
+/*************************/
+/* POST NAVIGATION */
+/*************************/
+
+
+.navigation-post {
+  margin-bottom: 40px;
+  border-bottom: 1px solid darken(@bodyBackground, 15%);
+  padding-bottom: 20px;
+  .clearfix;
+
+  h4 {
+    border-bottom: 1px solid darken(@bodyBackground, 15%);
+    padding-bottom: 10px;
+    margin-bottom: 20px;
+  }
+
+  .previous a, .next a {
+    display: block;
+    padding: 2px 5px;
+    color: #fff;
+  }
+
+  .previous {
+    float: left;
+    background-color: desaturate(@accentBackground, 15%);
+  }
+  .next {
+    float: right;
+    background-color: saturate(@accentBackground, 15%);
+  }
+}
+
+
+
+
+/*************************/
+/**** Post Pagination ****/
+/*************************/
+
+
+.wp-pagenavi {
+  clear: both;
+}
+
+.wp-pagenavi a, .wp-pagenavi span {
+  text-decoration: none;
+  border: 1px solid #BFBFBF;
+  padding: 3px 5px;
+  margin: 2px;
+}
+
+.wp-pagenavi a:hover, .wp-pagenavi span.current {
+  border-color: #000;
+}
+
+.wp-pagenavi span.current {
+  font-weight: bold;
+}
+
+
+
+/*************************/
+/***** GRID LAYOUT FOR MASONORY *****/
+/*************************/
+
+
+.fluid-posts-w {
+  .item{
+    float: left;
+    &.half {
+      width: 47.5%;
+      margin: 1%;
+    }
+    &.one-fourth {
+      width: 22.5%;
+      margin: 1%;
+    }
+    &.one-third {
+      width: 31%;
+      margin: 1%;
+    }
+  }
+}
+
+
+
+
+/*************************/
+/**** HORIZONTAL POSTS *****/
+/*************************/
+
+
+.horizontal-posts-w {
+  .item {
+    margin-bottom: @baseLineHeight;
+  }
+}
+
+
+
+
+
+/*************************/
+/**** ARCHIVES *****/
+/*************************/
+
+
+.page-header-archive, .page-header-search {
+  margin-bottom: 30px;
+  .page-title {
+    border-bottom: 1px solid darken(@bodyBackground, 10%);
+    padding-bottom: 10px;
+    span {
+      color: @headingsColorHighlight;
+    }
+  }
+}

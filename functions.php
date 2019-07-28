@@ -248,6 +248,7 @@ function venera_scripts() {
   prefix_check_acf_save_flag();
   // wp_enqueue_style( 'venera-style', get_stylesheet_uri() );
   wp_enqueue_style( 'style', get_template_directory_uri() . '/style.css', array(), VENERA_THEME_VERSION );
+  wp_enqueue_style( 'style', get_template_directory_uri() . '/css/theme_venera.css', array(), VENERA_THEME_VERSION );
 
 
   $color = my_less::get_current_color();
@@ -299,6 +300,7 @@ function venera_scripts() {
   wp_enqueue_script( 'wpb_composer_front_js' );
   wp_enqueue_style('js_composer_custom_css');
 
+
   wp_enqueue_script( 'venera-skip-link-focus-fix', get_template_directory_uri() . '/js/skip-link-focus-fix.js', array(), VENERA_THEME_VERSION, true );
 
   if ( is_singular() && comments_open() && get_option( 'thread_comments' ) ) {
@@ -309,6 +311,8 @@ function venera_scripts() {
       wp_enqueue_script( 'venera-keyboard-image-navigation', get_template_directory_uri() . '/js/keyboard-image-navigation.js', array(), VENERA_THEME_VERSION );
   }
 
+  //wp_register_script('lightbox',get_template_directory_uri().'/js/lightbox.js',array(),NULL,true);
+  //wp_enqueue_script('venera-lightbox',get_template_directory_uri() . '/js/lightbox.js', array(), VENERA_THEME_VERSION, true );
   wp_enqueue_script( 'venera-imagesloaded', get_template_directory_uri() . '/js/imagesloaded.pkgd.min.js', array(), VENERA_THEME_VERSION, true );
   wp_enqueue_script( 'venera-smartresize', get_template_directory_uri() . '/js/smartresize.js', array(), VENERA_THEME_VERSION, true );
   wp_enqueue_script( 'venera-bootstrap-transition', get_template_directory_uri() . '/js/bootstrap/bootstrap-transition.js', array(), VENERA_THEME_VERSION, true );

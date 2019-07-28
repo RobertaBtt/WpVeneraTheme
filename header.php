@@ -14,6 +14,8 @@
         <title><?php wp_title('|', true, 'right'); ?></title>
         <link rel="profile" href="http://gmpg.org/xfn/11" />
         <link rel="pingback" href="<?php bloginfo('pingback_url'); ?>" />
+        <script src="<?php echo get_template_directory_uri(); ?>/js/jquery-1.8.3.min.js" type="text/javascript"></script>
+
         <link href="<?php echo get_template_directory_uri(); ?>/css/theme_venera.css" media="all" rel="stylesheet" type="text/css" />
         <link href="http://fonts.googleapis.com/css?family=Abel:400|Oswald:300,400,700" media="all" rel="stylesheet" type="text/css" />
 
@@ -24,14 +26,14 @@
         <?php wp_head(); ?>
     </head>
 
-    <body <?php body_class(); ?>>
+    <body>
         <?php
         if (get_field('google_analytics_id', 'option')) {
             include_once( get_template_directory() . '/inc/google_analytics.php' );
         }
         ?>
-<?php do_action('before'); ?>
-        <header>
+        <?php do_action('before'); ?>
+        <header id='header'>
             <div class="navbar <?php if (get_field('top_bar_fixed_to_top', 'option') == 'yes') echo "navbar-fixed-top"; ?> <?php if (get_field('inversed_top_bar') == 'yes') echo "navbar-inverse"; ?>">
                 <div class="navbar-inner">
                     <div class="container">
@@ -40,15 +42,10 @@
                             <span class="icon-bar"></span>
                             <span class="icon-bar"></span>
                         </button>
-                        <a href="<?php echo esc_url(home_url('/')); ?>" title="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>" rel="home" class="brand">
-                            <?php if (get_field('logo_type', 'option') == 'image') { ?>
-                                <img src="<?php the_field('logo_image', 'option'); ?>" alt="" width="<?php the_field('logo_image_width', 'option'); ?>">
-                                <?php
-                            }
-                            if (get_field('logo_type', 'option') == 'text') {
-                                the_field('logo_text', 'option');
-                            }
-                            ?>
+                        <a href="<?php echo esc_url(home_url('/')); ?>" 
+                           title="<?php echo esc_attr(get_bloginfo('name', 'display')); ?>" 
+                           rel="home" class="brand">
+                            <?php echo esc_attr(get_bloginfo('name', 'display')); ?>
                         </a>
                         <div class="nav-collapse collapse top-nav-w">
                             <?php
