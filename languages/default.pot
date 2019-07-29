@@ -1,0 +1,6769 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: Venera\n"
+"POT-Creation-Date: 2013-08-22 12:16-0500\n"
+"PO-Revision-Date: 2013-08-22 12:16-0500\n"
+"Last-Translator: \n"
+"Language-Team: Osetin\n"
+"Language: english\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.5.7\n"
+"X-Poedit-KeywordsList: _;gettext;gettext_noop;_e;__;_n:1,2;_x:1,2c;_ex:1,2c\n"
+"X-Poedit-Basepath: .\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: ..\n"
+
+#: ../404.php:15
+msgid "Oops! That page can&rsquo;t be found."
+msgstr ""
+
+#: ../404.php:19
+msgid ""
+"It looks like nothing was found at this location. Maybe try one of the links "
+"below or a search?"
+msgstr ""
+
+#: ../404.php:26
+msgid "Most Used Categories"
+msgstr ""
+
+#: ../404.php:34
+#, php-format
+msgid "Try looking in the monthly archives. %1$s"
+msgstr ""
+
+#: ../archive.php:22
+#, php-format
+msgid "Category Archives: %s"
+msgstr ""
+
+#: ../archive.php:25
+#, php-format
+msgid "Tag Archives: %s"
+msgstr ""
+
+#: ../archive.php:32
+#, php-format
+msgid "Author Archives: %s"
+msgstr ""
+
+#: ../archive.php:40
+#, php-format
+msgid "Daily Archives: %s"
+msgstr ""
+
+#: ../archive.php:43
+#, php-format
+msgid "Monthly Archives: %s"
+msgstr ""
+
+#: ../archive.php:46
+#, php-format
+msgid "Yearly Archives: %s"
+msgstr ""
+
+#: ../archive.php:49
+#: ../inc/js_composer/composer/shortcodes_templates/vc_wp_archives.php:4
+#: ../inc/js_composer/config/map.php:1891
+msgid "Archives"
+msgstr ""
+
+#: ../comments.php:38 ../comments.php:58
+msgid "Comment navigation"
+msgstr ""
+
+#: ../comments.php:39 ../comments.php:59
+msgid "&larr; Older Comments"
+msgstr ""
+
+#: ../comments.php:40 ../comments.php:60
+msgid "Newer Comments &rarr;"
+msgstr ""
+
+#: ../comments.php:70
+msgid "Comments are closed."
+msgstr ""
+
+#: ../content-page.php:21 ../content-search.php:40 ../content-single.php:18
+#: ../content.php:25 ../image.php:93
+msgid "Pages:"
+msgstr ""
+
+#: ../content-page.php:22 ../content-search.php:73
+#: ../content-single-venera_portfolio.php:77 ../content-single.php:56
+#: ../content.php:58 ../image.php:34 ../image.php:107
+#: ../inc/template-tags.php:71 ../inc/template-tags.php:97
+#: ../inc/acf/addons/acf-gallery/gallery.php:166
+#: ../inc/acf/addons/acf-gallery/gallery.php:217
+#: ../inc/acf/main/core/fields/image.php:84
+#: ../inc/acf/main/core/views/meta_box_fields.php:122
+#: ../inc/js_composer/composer/lib/shortcodes.php:435
+#: ../inc/js_composer/composer/lib/shortcodes.php:655
+#: ../woocommerce/myaccount/my-address.php:46
+msgid "Edit"
+msgstr ""
+
+#: ../content-search.php:12 ../content-search.php:24 ../content.php:9
+#, php-format
+msgid "Permalink to %s"
+msgstr ""
+
+#: ../content-search.php:39 ../content.php:24
+msgid "Continue reading <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../content-search.php:48 ../content-search.php:58 ../content-single.php:24
+#: ../content-single.php:27 ../content.php:33 ../content.php:43
+msgid ", "
+msgstr ""
+
+#: ../content-search.php:52 ../content.php:37
+#, php-format
+msgid "Posted in %1$s"
+msgstr ""
+
+#: ../content-search.php:63 ../content.php:48
+#, php-format
+msgid "Tagged %1$s"
+msgstr ""
+
+#: ../content-search.php:70 ../content.php:55
+msgid "Leave a comment"
+msgstr ""
+
+#: ../content-search.php:70 ../content.php:55
+msgid "1 Comment"
+msgstr ""
+
+#: ../content-search.php:70 ../content.php:55
+msgid "% Comments"
+msgstr ""
+
+#: ../content-single-venera_portfolio.php:85
+msgid "Related Items"
+msgstr ""
+
+#: ../content-single-venera_portfolio.php:86
+msgid "Under Portfolio"
+msgstr ""
+
+#: ../content-single.php:32
+#, php-format
+msgid ""
+"This entry was tagged %2$s. Bookmark the <a href=\"%3$s\" title=\"Permalink "
+"to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:34
+#, php-format
+msgid ""
+"Bookmark the <a href=\"%3$s\" title=\"Permalink to %4$s\" rel=\"bookmark"
+"\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:40
+#, php-format
+msgid ""
+"This entry was posted in %1$s and tagged %2$s. Bookmark the <a href=\"%3$s\" "
+"title=\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-single.php:42
+#, php-format
+msgid ""
+"This entry was posted in %1$s. Bookmark the <a href=\"%3$s\" title="
+"\"Permalink to %4$s\" rel=\"bookmark\">permalink</a>."
+msgstr ""
+
+#: ../content-venera_portfolio.php:14 ../inc/shortcodes.php:124
+msgid "Read More"
+msgstr ""
+
+#: ../functions.php:75
+msgid "Appearance"
+msgstr ""
+
+#: ../functions.php:76
+msgid "UI Elements"
+msgstr ""
+
+#: ../functions.php:77
+msgid "Frames"
+msgstr ""
+
+#: ../functions.php:78
+msgid "Blog Posts"
+msgstr ""
+
+#: ../functions.php:79
+msgid "Header"
+msgstr ""
+
+#: ../functions.php:80
+msgid "Footer"
+msgstr ""
+
+#: ../functions.php:81 ../inc/acf/main/core/fields/radio.php:102
+#: ../inc/acf/main/core/views/meta_box_location.php:91
+#: ../inc/js_composer/composer/lib/layouts.php:165
+msgid "Other"
+msgstr ""
+
+#: ../functions.php:164
+msgid "Header Menu"
+msgstr ""
+
+#: ../functions.php:165
+msgid "Footer Menu"
+msgstr ""
+
+#: ../image.php:23
+#, php-format
+msgid ""
+"Published <span class=\"entry-date\"><time class=\"entry-date\" datetime="
+"\"%1$s\">%2$s</time></span> at <a href=\"%3$s\" title=\"Link to full-size "
+"image\">%4$s &times; %5$s</a> in <a href=\"%6$s\" title=\"Return to %7$s\" "
+"rel=\"gallery\">%8$s</a>"
+msgstr ""
+
+#: ../image.php:38
+msgid "<span class=\"meta-nav\">&larr;</span> Previous"
+msgstr ""
+
+#: ../image.php:39
+msgid "Next <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../image.php:99
+#, php-format
+msgid ""
+"<a class=\"comment-link\" href=\"#respond\" title=\"Post a comment\">Post a "
+"comment</a> or leave a trackback: <a class=\"trackback-link\" href=\"%s\" "
+"title=\"Trackback URL for your post\" rel=\"trackback\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:101
+#, php-format
+msgid ""
+"Comments are closed, but you can leave a trackback: <a class=\"trackback-link"
+"\" href=\"%s\" title=\"Trackback URL for your post\" rel=\"trackback"
+"\">Trackback URL</a>."
+msgstr ""
+
+#: ../image.php:103
+msgid ""
+"Trackbacks are closed, but you can <a class=\"comment-link\" href=\"#respond"
+"\" title=\"Post a comment\">post a comment</a>."
+msgstr ""
+
+#: ../image.php:105
+msgid "Both comments and trackbacks are currently closed."
+msgstr ""
+
+#: ../no-results.php:13
+msgid "Nothing Found"
+msgstr ""
+
+#: ../no-results.php:19
+#, php-format
+msgid ""
+"Ready to publish your first post? <a href=\"%1$s\">Get started here</a>."
+msgstr ""
+
+#: ../no-results.php:23
+msgid ""
+"Sorry, but nothing matched your search terms. Please try again with some "
+"different keywords."
+msgstr ""
+
+#: ../no-results.php:28
+msgid ""
+"It seems we can&rsquo;t find what you&rsquo;re looking for. Perhaps "
+"searching can help."
+msgstr ""
+
+#: ../search.php:17
+#, php-format
+msgid "Search Results for: %s"
+msgstr ""
+
+#: ../searchform.php:9
+msgctxt "assistive text"
+msgid "Search"
+msgstr ""
+
+#: ../taxonomy-portfolio-category.php:18
+msgid "Portfolio by Category: "
+msgstr ""
+
+#: ../inc/custom_post_types.php:10 ../inc/custom_post_types.php:21
+#: ../inc/custom_post_types.php:27
+msgid "Pricing Packages"
+msgstr ""
+
+#: ../inc/custom_post_types.php:11
+msgid "Pricing Package"
+msgstr ""
+
+#: ../inc/custom_post_types.php:12 ../inc/custom_post_types.php:58
+#: ../inc/custom_post_types.php:104 ../inc/custom_post_types.php:187
+#: ../inc/custom_post_types.php:232 ../inc/acf/main/acf.php:344
+msgid "Add New"
+msgstr ""
+
+#: ../inc/custom_post_types.php:13
+msgid "Add New Pricing Package"
+msgstr ""
+
+#: ../inc/custom_post_types.php:14
+msgid "Edit Pricing Package"
+msgstr ""
+
+#: ../inc/custom_post_types.php:15
+msgid "New Pricing Package"
+msgstr ""
+
+#: ../inc/custom_post_types.php:16
+msgid "View Pricing Package"
+msgstr ""
+
+#: ../inc/custom_post_types.php:17
+msgid "Search Pricing Packages"
+msgstr ""
+
+#: ../inc/custom_post_types.php:18
+msgid "No Pricing Packages found"
+msgstr ""
+
+#: ../inc/custom_post_types.php:19
+msgid "No Pricing Packages found in Trash"
+msgstr ""
+
+#: ../inc/custom_post_types.php:20
+msgid "Parent Pricing Package:"
+msgstr ""
+
+#: ../inc/custom_post_types.php:56 ../inc/custom_post_types.php:57
+#: ../inc/custom_post_types.php:67 ../inc/custom_post_types.php:73
+#: ../inc/shortcodes.php:202 ../inc/acf/data.php:1615
+#: ../inc/js_composer_extend/my_map.php:263
+msgid "Testimonials"
+msgstr ""
+
+#: ../inc/custom_post_types.php:59
+msgid "Add New Testimonial"
+msgstr ""
+
+#: ../inc/custom_post_types.php:60
+msgid "Edit Testimonial"
+msgstr ""
+
+#: ../inc/custom_post_types.php:61
+msgid "New Testimonial"
+msgstr ""
+
+#: ../inc/custom_post_types.php:62
+msgid "View Testimonial"
+msgstr ""
+
+#: ../inc/custom_post_types.php:63
+msgid "Search Testimonials"
+msgstr ""
+
+#: ../inc/custom_post_types.php:64
+msgid "No Testimonials found"
+msgstr ""
+
+#: ../inc/custom_post_types.php:65
+msgid "No Testimonials found in Trash"
+msgstr ""
+
+#: ../inc/custom_post_types.php:66
+msgid "Parent Testimonial:"
+msgstr ""
+
+#: ../inc/custom_post_types.php:102 ../inc/custom_post_types.php:103
+#: ../inc/custom_post_types.php:119
+msgid "Portfolio Item"
+msgstr ""
+
+#: ../inc/custom_post_types.php:105
+msgid "Add New Portfolio Item"
+msgstr ""
+
+#: ../inc/custom_post_types.php:106
+msgid "Edit Portfolio Item"
+msgstr ""
+
+#: ../inc/custom_post_types.php:107
+msgid "New Portfolio Item"
+msgstr ""
+
+#: ../inc/custom_post_types.php:108
+msgid "View Portfolio Item"
+msgstr ""
+
+#: ../inc/custom_post_types.php:109
+msgid "Search Portfolio Items"
+msgstr ""
+
+#: ../inc/custom_post_types.php:110
+msgid "No Portfolio Items found"
+msgstr ""
+
+#: ../inc/custom_post_types.php:111
+msgid "No Portfolio Items found in Trash"
+msgstr ""
+
+#: ../inc/custom_post_types.php:112
+msgid "Parent Portfolio Item:"
+msgstr ""
+
+#: ../inc/custom_post_types.php:113
+msgid "Portfolio"
+msgstr ""
+
+#: ../inc/custom_post_types.php:144
+msgctxt "taxonomy general name"
+msgid "Portfolio Category"
+msgstr ""
+
+#: ../inc/custom_post_types.php:145
+msgctxt "taxonomy singular name"
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../inc/custom_post_types.php:146
+msgid "Search Portfolio Categories"
+msgstr ""
+
+#: ../inc/custom_post_types.php:147
+msgid "Popular Portfolio Categories"
+msgstr ""
+
+#: ../inc/custom_post_types.php:148
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: ../inc/custom_post_types.php:151
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: ../inc/custom_post_types.php:152
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: ../inc/custom_post_types.php:153
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: ../inc/custom_post_types.php:154
+msgid "New Portfolio Category Name"
+msgstr ""
+
+#: ../inc/custom_post_types.php:155
+msgid "Separate portfolio categories with commas"
+msgstr ""
+
+#: ../inc/custom_post_types.php:156
+msgid "Add or remove portfolio category"
+msgstr ""
+
+#: ../inc/custom_post_types.php:157
+msgid "Choose from the most used portfolio categories"
+msgstr ""
+
+#: ../inc/custom_post_types.php:158
+msgid "No portfolio categories found."
+msgstr ""
+
+#: ../inc/custom_post_types.php:159
+msgid "Portfolio Categories"
+msgstr ""
+
+#: ../inc/custom_post_types.php:185 ../inc/custom_post_types.php:186
+#: ../inc/custom_post_types.php:202
+msgid "Team Member"
+msgstr ""
+
+#: ../inc/custom_post_types.php:188
+msgid "Add Team Member"
+msgstr ""
+
+#: ../inc/custom_post_types.php:189
+msgid "Edit Team Member"
+msgstr ""
+
+#: ../inc/custom_post_types.php:190
+msgid "New Team Member"
+msgstr ""
+
+#: ../inc/custom_post_types.php:191
+msgid "View Team Member"
+msgstr ""
+
+#: ../inc/custom_post_types.php:192
+msgid "Search Team Members"
+msgstr ""
+
+#: ../inc/custom_post_types.php:193
+msgid "No Team Members found"
+msgstr ""
+
+#: ../inc/custom_post_types.php:194
+msgid "No Team Members found in Trash"
+msgstr ""
+
+#: ../inc/custom_post_types.php:195
+msgid "Parent Team Member:"
+msgstr ""
+
+#: ../inc/custom_post_types.php:196 ../inc/shortcodes.php:280
+#: ../inc/js_composer_extend/my_map.php:133
+msgid "Team Members"
+msgstr ""
+
+#: ../inc/custom_post_types.php:230 ../inc/custom_post_types.php:231
+#: ../inc/custom_post_types.php:247 ../inc/js_composer/composer/build.php:320
+#: ../inc/js_composer/composer/lib/shortcodes/tour.php:4
+msgid "Slide"
+msgstr ""
+
+#: ../inc/custom_post_types.php:233
+msgid "Add New Slide"
+msgstr ""
+
+#: ../inc/custom_post_types.php:234
+msgid "Edit Slide"
+msgstr ""
+
+#: ../inc/custom_post_types.php:235
+msgid "New Slide"
+msgstr ""
+
+#: ../inc/custom_post_types.php:236
+msgid "View Slide"
+msgstr ""
+
+#: ../inc/custom_post_types.php:237
+msgid "Search Slides"
+msgstr ""
+
+#: ../inc/custom_post_types.php:238
+msgid "No Slides found"
+msgstr ""
+
+#: ../inc/custom_post_types.php:239
+msgid "No Slides found in Trash"
+msgstr ""
+
+#: ../inc/custom_post_types.php:240
+msgid "Parent Slide:"
+msgstr ""
+
+#: ../inc/custom_post_types.php:241
+msgid "Slides"
+msgstr ""
+
+#: ../inc/custom_sidebars.php:7
+msgid "Default Sidebar"
+msgstr ""
+
+#: ../inc/custom_sidebars.php:9
+msgid "Deafault sidebar that appears on right or left of the posts"
+msgstr ""
+
+#: ../inc/custom_sidebars.php:28
+msgid "Footer Area"
+msgstr ""
+
+#: ../inc/custom_sidebars.php:30
+msgid "Sidebar for pre footer section"
+msgstr ""
+
+#: ../inc/custom_widgets.php:5
+msgid "Display a list of related portfolio items on a single portfolio page"
+msgstr ""
+
+#: ../inc/custom_widgets.php:88
+msgid "Related Work"
+msgstr ""
+
+#: ../inc/custom_widgets.php:91
+msgid "Title:"
+msgstr ""
+
+#: ../inc/custom_widgets.php:95
+msgid "Number of items:"
+msgstr ""
+
+#: ../inc/custom_widgets.php:106
+msgid "Show only items from same category?"
+msgstr ""
+
+#: ../inc/extras.php:66
+#, php-format
+msgid "Page %s"
+msgstr ""
+
+#: ../inc/shortcodes.php:62
+msgid "Our Clients"
+msgstr ""
+
+#: ../inc/shortcodes.php:93
+#: ../inc/js_composer/composer/shortcodes_templates/vc_wp_posts.php:4
+#: ../inc/js_composer/config/map.php:1781
+#: ../inc/js_composer_extend/my_map.php:199
+msgid "Recent Posts"
+msgstr ""
+
+#: ../inc/shortcodes.php:586
+msgid "View Details"
+msgstr ""
+
+#: ../inc/shortcodes.php:590
+msgid "View Bigger"
+msgstr ""
+
+#: ../inc/shortcodes.php:624
+#: ../inc/acf/main/core/controllers/field_group.php:741
+#: ../inc/acf/main/core/controllers/field_group.php:762
+#: ../inc/acf/main/core/controllers/field_group.php:769
+#: ../inc/acf/main/core/fields/file.php:186
+#: ../inc/acf/main/core/fields/image.php:170
+#: ../inc/acf/main/core/fields/page_link.php:109
+#: ../inc/acf/main/core/fields/post_object.php:274
+#: ../inc/acf/main/core/fields/post_object.php:298
+#: ../inc/acf/main/core/fields/relationship.php:595
+#: ../inc/acf/main/core/fields/relationship.php:619
+#: ../inc/acf/main/core/fields/user.php:229
+#: ../inc/js_composer/composer/shortcodes_templates/vc_posts_grid.php:177
+#: ../inc/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:322
+#: ../inc/js_composer_extend/templates/vc_teaser_grid.php:322
+msgid "All"
+msgstr ""
+
+#: ../inc/template-tags.php:34
+msgid "Post navigation"
+msgstr ""
+
+#: ../inc/template-tags.php:38
+msgctxt "Previous post link"
+msgid "&larr;"
+msgstr ""
+
+#: ../inc/template-tags.php:39
+msgctxt "Next post link"
+msgid "&rarr;"
+msgstr ""
+
+#: ../inc/template-tags.php:44
+msgid "<span class=\"meta-nav\">&larr;</span> Older posts"
+msgstr ""
+
+#: ../inc/template-tags.php:48
+msgid "Newer posts <span class=\"meta-nav\">&rarr;</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:71
+msgid "Pingback:"
+msgstr ""
+
+#: ../inc/template-tags.php:85
+#, php-format
+msgid "%s <span class=\"says\">says:</span>"
+msgstr ""
+
+#: ../inc/template-tags.php:88
+msgid "Your comment is awaiting moderation."
+msgstr ""
+
+#: ../inc/template-tags.php:95
+#, php-format
+msgctxt "1: date, 2: time"
+msgid "%1$s at %2$s"
+msgstr ""
+
+#: ../inc/template-tags.php:118
+#, php-format
+msgid ""
+"Posted on <a href=\"%1$s\" title=\"%2$s\" rel=\"bookmark\"><time class="
+"\"entry-date\" datetime=\"%3$s\">%4$s</time></a><span class=\"byline\"> by "
+"<span class=\"author vcard\"><a class=\"url fn n\" href=\"%5$s\" title=\"%6$s"
+"\" rel=\"author\">%7$s</a></span></span>"
+msgstr ""
+
+#: ../inc/template-tags.php:124 ../inc/template-tags.php:166
+#, php-format
+msgid "View all posts by %s"
+msgstr ""
+
+#: ../inc/template-tags.php:133
+msgid "No comments"
+msgstr ""
+
+#: ../inc/template-tags.php:138
+msgid "Comment"
+msgstr ""
+
+#: ../inc/template-tags.php:141
+#: ../inc/acf/main/core/views/meta_box_options.php:98
+msgid "Comments"
+msgstr ""
+
+#: ../inc/template-tags.php:154
+#, php-format
+msgid ""
+"<ul>\n"
+"\t\t\t\t\t\t\t\t<li>%1$s</li>\n"
+"\t\t\t\t\t\t\t\t<li>Posted on <a href=\"%2$s\" title=\"%3$s\" rel=\"bookmark"
+"\"><time class=\"entry-date\" datetime=\"%4$s\">%5$s</time></a></li>\n"
+"\t\t\t\t\t\t\t\t<li><span class=\"byline\"> by <span class=\"author vcard"
+"\"><a class=\"url fn n\" href=\"%6$s\" title=\"%7$s\" rel=\"author\">%8$s</"
+"a></span></span></li>\n"
+"\t\t\t\t\t\t\t\t<li><a href=\"%9$s\">%10$s</a></li>\n"
+"\t\t\t\t\t\t\t</ul>"
+msgstr ""
+
+#: ../inc/woocommerce_integration.php:170
+msgid "Shopping Cart"
+msgstr ""
+
+#: ../inc/woocommerce_integration.php:191
+msgid "Shop Sidebar"
+msgstr ""
+
+#: ../inc/acf/data.php:39
+msgid "Highlighted Header"
+msgstr ""
+
+#: ../inc/acf/data.php:45
+msgid "Show Highlighted Header"
+msgstr ""
+
+#: ../inc/acf/data.php:48
+msgid "Check this field if you want to show highlighted header"
+msgstr ""
+
+#: ../inc/acf/data.php:54
+msgid "Header Title"
+msgstr ""
+
+#: ../inc/acf/data.php:77
+msgid "Header Sub Title"
+msgstr ""
+
+#: ../inc/acf/data.php:100
+msgid "Same Line Title"
+msgstr ""
+
+#: ../inc/acf/data.php:103
+msgid ""
+"Check this field if you want to show title and sub title on the same line"
+msgstr ""
+
+#: ../inc/acf/data.php:120
+msgid "Custom Background"
+msgstr ""
+
+#: ../inc/acf/data.php:139
+msgid "Solid Color"
+msgstr ""
+
+#: ../inc/acf/data.php:157
+msgid "Image as a Background"
+msgstr ""
+
+#: ../inc/acf/data.php:177
+msgid "Title Font Color"
+msgstr ""
+
+#: ../inc/acf/data.php:195
+msgid "Sub Title Font Color"
+msgstr ""
+
+#: ../inc/acf/data.php:213
+msgid "Add Icon or Image to Header"
+msgstr ""
+
+#: ../inc/acf/data.php:232
+msgid "Icon Name (e.g. icon-cog)"
+msgstr ""
+
+#: ../inc/acf/data.php:235
+msgid ""
+"Type the icon name you want to use from the list of available FontAwesome "
+"icons: <a href=\"http://fortawesome.github.io/Font-Awesome/icons/\" target="
+"\"_blank\">http://fortawesome.github.io/Font-Awesome/icons/</a>"
+msgstr ""
+
+#: ../inc/acf/data.php:256 ../inc/acf/main/core/fields/image.php:19
+#: ../inc/js_composer/config/map.php:362
+msgid "Image"
+msgstr ""
+
+#: ../inc/acf/data.php:276
+msgid "Icon/Image Position"
+msgstr ""
+
+#: ../inc/acf/data.php:291
+msgid "Align Left"
+msgstr ""
+
+#: ../inc/acf/data.php:292
+msgid "Align Right"
+msgstr ""
+
+#: ../inc/acf/data.php:333 ../inc/acf/data.php:347
+msgid "Color Scheme"
+msgstr ""
+
+#: ../inc/acf/data.php:339
+msgid "Color Scheme Message"
+msgstr ""
+
+#: ../inc/acf/data.php:352
+msgid "Color Theme 1"
+msgstr ""
+
+#: ../inc/acf/data.php:353
+msgid "Color Theme 2"
+msgstr ""
+
+#: ../inc/acf/data.php:354
+msgid "Color Theme 3"
+msgstr ""
+
+#: ../inc/acf/data.php:355
+msgid "Color Theme 4"
+msgstr ""
+
+#: ../inc/acf/data.php:364
+msgid "Allow to override color scheme settings"
+msgstr ""
+
+#: ../inc/acf/data.php:372
+msgid "General"
+msgstr ""
+
+#: ../inc/acf/data.php:378
+msgid "General Message"
+msgstr ""
+
+#: ../inc/acf/data.php:386
+msgid "Body Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:393 ../inc/acf/data.php:614 ../inc/acf/data.php:651
+#: ../inc/acf/data.php:1016 ../inc/acf/data.php:1082 ../inc/acf/data.php:1563
+#: ../inc/acf/data.php:1644 ../inc/acf/data.php:1877
+msgid "Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:400
+msgid "Headings Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:407
+msgid "Logo type"
+msgstr ""
+
+#: ../inc/acf/data.php:421
+msgid "Logo Image"
+msgstr ""
+
+#: ../inc/acf/data.php:441
+msgid "Logo Image Width (e.g. 100px)"
+msgstr ""
+
+#: ../inc/acf/data.php:464
+msgid "Logo Font Size (e.g. 20px)"
+msgstr ""
+
+#: ../inc/acf/data.php:487
+msgid "Logo Text"
+msgstr ""
+
+#: ../inc/acf/data.php:510
+msgid "Flat Headers"
+msgstr ""
+
+#: ../inc/acf/data.php:513
+msgid "This will remove shadow and gloss from header borders"
+msgstr ""
+
+#: ../inc/acf/data.php:519
+msgid "Leader Board"
+msgstr ""
+
+#: ../inc/acf/data.php:525
+msgid "Leader Message"
+msgstr ""
+
+#: ../inc/acf/data.php:533 ../inc/acf/data.php:593 ../inc/acf/data.php:635
+#: ../inc/acf/data.php:1044 ../inc/acf/data.php:1207 ../inc/acf/data.php:1549
+#: ../inc/acf/data.php:1630 ../inc/acf/data.php:1863
+msgid "Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:540 ../inc/acf/data.php:642 ../inc/acf/data.php:1296
+#: ../inc/acf/data.php:1409
+msgid "Background Image"
+msgstr ""
+
+#: ../inc/acf/data.php:549
+msgid "Primary Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:556
+msgid "Secondary Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:563
+msgid "Highlighted Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:570
+msgid "Highlighted Block"
+msgstr ""
+
+#: ../inc/acf/data.php:576
+msgid "Highlighted Block Message"
+msgstr ""
+
+#: ../inc/acf/data.php:584 ../inc/acf/data.php:1198 ../inc/acf/data.php:1382
+#: ../inc/acf/data.php:1540 ../inc/acf/data.php:1621 ../inc/acf/data.php:1702
+#: ../inc/acf/data.php:1785 ../inc/acf/data.php:1854
+msgid "Make it flat"
+msgstr ""
+
+#: ../inc/acf/data.php:587
+msgid "This will remove gloss, shadows and borders from the highlighted block"
+msgstr ""
+
+#: ../inc/acf/data.php:600
+msgid "Icons Color"
+msgstr ""
+
+#: ../inc/acf/data.php:607
+msgid "Headings Colors"
+msgstr ""
+
+#: ../inc/acf/data.php:621
+msgid "CTA Block"
+msgstr ""
+
+#: ../inc/acf/data.php:627
+msgid "Call to action message"
+msgstr ""
+
+#: ../inc/acf/data.php:658
+msgid "Fonts"
+msgstr ""
+
+#: ../inc/acf/data.php:664
+msgid "Google Fonts String"
+msgstr ""
+
+#: ../inc/acf/data.php:667
+msgid ""
+"The href string that you can copy from google web fonts website <a href="
+"\"http://bit.ly/1d3nlc2\">http://bit.ly/1d3nlc2</a>.<br/>Default value: "
+"<strong>http://fonts.googleapis.com/css?family=Oswald:400,700,300|Roboto"
+"+Condensed:300,400,700</strong>"
+msgstr ""
+
+#: ../inc/acf/data.php:677
+msgid "Base Font Settings"
+msgstr ""
+
+#: ../inc/acf/data.php:684
+msgid "Base Font Family"
+msgstr ""
+
+#: ../inc/acf/data.php:687
+msgid ""
+"Default value: <strong>\"Roboto Condensed\", \"Helvetica Neue\", Helvetica, "
+"Arial, sans-serif</strong>"
+msgstr ""
+
+#: ../inc/acf/data.php:697
+msgid "Base Font Size"
+msgstr ""
+
+#: ../inc/acf/data.php:700
+msgid "Default value: 16px"
+msgstr ""
+
+#: ../inc/acf/data.php:710
+msgid "Base Font Weight"
+msgstr ""
+
+#: ../inc/acf/data.php:713
+msgid "Default font weight for the website. Default value: 300"
+msgstr ""
+
+#: ../inc/acf/data.php:723
+msgid "Base Line Height"
+msgstr ""
+
+#: ../inc/acf/data.php:726
+msgid "Default value: 24px"
+msgstr ""
+
+#: ../inc/acf/data.php:736
+msgid "Headings Fonts"
+msgstr ""
+
+#: ../inc/acf/data.php:743
+msgid "Headings Font Family"
+msgstr ""
+
+#: ../inc/acf/data.php:746 ../inc/acf/data.php:779
+msgid ""
+"Default value: <strong>\"Oswald\", \"Helvetica Neue\", Helvetica, Arial, "
+"sans-serif</strong>"
+msgstr ""
+
+#: ../inc/acf/data.php:756
+msgid "Headings Font Weight"
+msgstr ""
+
+#: ../inc/acf/data.php:759
+msgid "Font weight for headings. Default value: 400"
+msgstr ""
+
+#: ../inc/acf/data.php:769
+msgid "Navigation Fonts"
+msgstr ""
+
+#: ../inc/acf/data.php:776
+msgid "Navigation Font Family"
+msgstr ""
+
+#: ../inc/acf/data.php:789
+msgid "Navigation Font Weight"
+msgstr ""
+
+#: ../inc/acf/data.php:792 ../inc/acf/data.php:838
+msgid "Default value: 300"
+msgstr ""
+
+#: ../inc/acf/data.php:802
+msgid "Navigation Font Size"
+msgstr ""
+
+#: ../inc/acf/data.php:805
+msgid "Default: 18px"
+msgstr ""
+
+#: ../inc/acf/data.php:815
+msgid "Button Fonts"
+msgstr ""
+
+#: ../inc/acf/data.php:822
+msgid "Buttons Font Family"
+msgstr ""
+
+#: ../inc/acf/data.php:825
+msgid ""
+"Default: <strong>\"Oswald\", \"Helvetica Neue\", Helvetica, Arial, sans-"
+"serif</strong>"
+msgstr ""
+
+#: ../inc/acf/data.php:835
+msgid "Buttons Font Weight"
+msgstr ""
+
+#: ../inc/acf/data.php:848
+msgid "Primary Font Weights"
+msgstr ""
+
+#: ../inc/acf/data.php:855
+msgid "Primary Font Weight Bold"
+msgstr ""
+
+#: ../inc/acf/data.php:858
+msgid "The weight of the bold primary font. Default: 700"
+msgstr ""
+
+#: ../inc/acf/data.php:868
+msgid "Primary Font Weight Normal"
+msgstr ""
+
+#: ../inc/acf/data.php:871
+msgid "The weight of the normal primary font. Default: 400"
+msgstr ""
+
+#: ../inc/acf/data.php:881
+msgid "Primary Font Weight Thin"
+msgstr ""
+
+#: ../inc/acf/data.php:884
+msgid "The weight of the thin primary font. Default: 300"
+msgstr ""
+
+#: ../inc/acf/data.php:894
+msgid "Secondary Font Weights"
+msgstr ""
+
+#: ../inc/acf/data.php:901
+msgid "Secondary Font Weight Bold"
+msgstr ""
+
+#: ../inc/acf/data.php:904
+msgid "The weight of bold headings font. Default: 700"
+msgstr ""
+
+#: ../inc/acf/data.php:914
+msgid "Secondary Font Weight Normal"
+msgstr ""
+
+#: ../inc/acf/data.php:917
+msgid "The weight of normal headings font. Default: 400"
+msgstr ""
+
+#: ../inc/acf/data.php:927
+msgid "Secondary Font Weight Thin"
+msgstr ""
+
+#: ../inc/acf/data.php:930
+msgid "The weight of thin headings font. Default: 300"
+msgstr ""
+
+#: ../inc/acf/data.php:964 ../inc/acf/main/core/views/meta_box_location.php:84
+#: ../inc/acf/main/core/views/meta_box_location.php:85
+msgid "Post"
+msgstr ""
+
+#: ../inc/acf/data.php:970 ../inc/acf/data.php:1036
+msgid "Make it Flat"
+msgstr ""
+
+#: ../inc/acf/data.php:978
+msgid "Content Border Radius (e.g. 5px)"
+msgstr ""
+
+#: ../inc/acf/data.php:990
+msgid "Content Background"
+msgstr ""
+
+#: ../inc/acf/data.php:997
+msgid "Content Padding (e.g. 20px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1009 ../inc/acf/data.php:1075 ../inc/acf/data.php:1556
+msgid "Headings Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1023 ../inc/acf/data.php:1089
+msgid "Links Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1030
+msgid "Comment Box"
+msgstr ""
+
+#: ../inc/acf/data.php:1051
+msgid "Box Border Radius (e.g. 5px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1063 ../inc/acf/data.php:1663
+msgid "Box Padding (e.g. 10px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1120
+msgid "Pre Footer Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1127
+msgid "Pre Footer Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1134
+msgid "Deep Footer Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1141
+msgid "Deep Footer Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1148
+msgid "Borders Between Footers"
+msgstr ""
+
+#: ../inc/acf/data.php:1156
+msgid "Footer Copyright Text"
+msgstr ""
+
+#: ../inc/acf/data.php:1192
+msgid "Browser Frame"
+msgstr ""
+
+#: ../inc/acf/data.php:1201
+msgid "If checked - browser frame won't have any shadow or gloss"
+msgstr ""
+
+#: ../inc/acf/data.php:1214
+msgid "Buttons/Icons Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1221
+msgid "URL Box Background"
+msgstr ""
+
+#: ../inc/acf/data.php:1228
+msgid "URL Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1235
+msgid "URL Border Radius (e.g. 4px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1247
+msgid "Browser Border Radius (e.g. 4px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1283
+msgid "Top Bar Settings"
+msgstr ""
+
+#: ../inc/acf/data.php:1289 ../inc/acf/data.php:1391
+msgid "Background Solid Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1305
+msgid "Links and Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1312
+msgid "Top Border Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1319
+msgid "Bottom Border Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1326
+msgid "Should top bar stick to the top of the page?"
+msgstr ""
+
+#: ../inc/acf/data.php:1334
+msgid "Drop Shadow?"
+msgstr ""
+
+#: ../inc/acf/data.php:1342
+msgid "Hide Search Box from Top Bar"
+msgstr ""
+
+#: ../inc/acf/data.php:1350
+msgid "Top Bar Search Input and Border Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1368
+msgid "Page Header Settings"
+msgstr ""
+
+#: ../inc/acf/data.php:1374
+msgid "Hide page header box by default"
+msgstr ""
+
+#: ../inc/acf/data.php:1385
+msgid "If checked - all the shadows and gloss will be removed"
+msgstr ""
+
+#: ../inc/acf/data.php:1429
+msgid "Title Font Color For Header Box"
+msgstr ""
+
+#: ../inc/acf/data.php:1447
+msgid "Sub Title Font Color For Header Box"
+msgstr ""
+
+#: ../inc/acf/data.php:1489
+msgid "Other Message"
+msgstr ""
+
+#: ../inc/acf/data.php:1497
+msgid "Google Analytics ID"
+msgstr ""
+
+#: ../inc/acf/data.php:1500
+msgid ""
+"ID for google analytics code, looks something like: <strong>UA-99999999-1</"
+"strong>. Leave blank to not include google analytics code."
+msgstr ""
+
+#: ../inc/acf/data.php:1534 ../inc/js_composer/config/map.php:1940
+msgid "Items"
+msgstr ""
+
+#: ../inc/acf/data.php:1543
+msgid "This will remove gradient from a background and remove a shadow."
+msgstr ""
+
+#: ../inc/acf/data.php:1570 ../inc/acf/data.php:1930
+msgid "Border Radius (e.g. 4px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1582
+msgid "Padding ( e.g. 10px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1594
+msgid "Text Links Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1601
+msgid "Tag Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1608
+msgid "Tag Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1624
+msgid "this will remove shadows from testimonial box and author photo"
+msgstr ""
+
+#: ../inc/acf/data.php:1637 ../inc/acf/data.php:1870
+msgid "Heading Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1651 ../inc/acf/data.php:1767
+msgid "Border Radius (e.g. 5px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1675
+msgid "Highlight Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1682
+msgid "Author Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1689
+msgid "Author Border Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1696 ../inc/js_composer/config/map.php:597
+msgid "Accordion"
+msgstr ""
+
+#: ../inc/acf/data.php:1705
+msgid "This will make accordion flat and will remove all shadows"
+msgstr ""
+
+#: ../inc/acf/data.php:1711
+msgid "Tab Header Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1718 ../inc/acf/data.php:1794
+msgid "Tab Header Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1725 ../inc/acf/data.php:1815
+msgid "Tab Header Active Background"
+msgstr ""
+
+#: ../inc/acf/data.php:1732 ../inc/acf/data.php:1808
+msgid "Tab Header Active Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1739
+msgid "Icon Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1746
+msgid "Icon Active Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1753
+msgid "Tab Content Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1760 ../inc/acf/data.php:1829
+msgid "Tab Content Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1779 ../inc/js_composer/config/map.php:483
+msgid "Tabs"
+msgstr ""
+
+#: ../inc/acf/data.php:1788
+msgid "This will remove all shadows from tabs"
+msgstr ""
+
+#: ../inc/acf/data.php:1801
+msgid "Tab Header Background"
+msgstr ""
+
+#: ../inc/acf/data.php:1822
+msgid "Tab Content Background"
+msgstr ""
+
+#: ../inc/acf/data.php:1836
+msgid "Tabs Border Radius (e.g. 10px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1848 ../inc/js_composer_extend/my_map.php:173
+msgid "Pricing Table"
+msgstr ""
+
+#: ../inc/acf/data.php:1857
+msgid "That will remove any shadows from pricing table box"
+msgstr ""
+
+#: ../inc/acf/data.php:1884
+msgid "Price Period Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1891
+msgid "Feature Highlight Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1898
+msgid "Border Radius (e.g. 8px)"
+msgstr ""
+
+#: ../inc/acf/data.php:1910 ../inc/js_composer_extend/my_map.php:408
+msgid "Buttons"
+msgstr ""
+
+#: ../inc/acf/data.php:1916 ../inc/acf/main/core/views/meta_box_options.php:62
+msgid "Style"
+msgstr ""
+
+#: ../inc/acf/data.php:1920 ../inc/js_composer/config/map.php:10
+#: ../inc/js_composer_extend/my_map.php:3
+msgid "Default"
+msgstr ""
+
+#: ../inc/acf/data.php:1921
+msgid "Flat"
+msgstr ""
+
+#: ../inc/acf/data.php:1922
+msgid "Absolutely Flat"
+msgstr ""
+
+#: ../inc/acf/data.php:1942
+msgid "Default Button Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1949
+msgid "Default Button Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1956
+msgid "Primary Button Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1963
+msgid "Primary Button Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1970
+msgid "Info Button Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1977
+msgid "Info Button Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1984
+msgid "Success Button Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1991
+msgid "Success Button Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:1998
+msgid "Warning Button Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:2005
+msgid "Warning Button Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:2012
+msgid "Danger Button Background Color"
+msgstr ""
+
+#: ../inc/acf/data.php:2019
+msgid "Danger Button Text Color"
+msgstr ""
+
+#: ../inc/acf/data.php:2050
+msgid "Package Price"
+msgstr ""
+
+#: ../inc/acf/data.php:2064
+msgid "Price Currency"
+msgstr ""
+
+#: ../inc/acf/data.php:2067
+msgid "Currency value to show next to the price (e.g. $)"
+msgstr ""
+
+#: ../inc/acf/data.php:2088
+msgid "Price Period"
+msgstr ""
+
+#: ../inc/acf/data.php:2091
+msgid "A time period which is covered by package price"
+msgstr ""
+
+#: ../inc/acf/data.php:2101
+msgid "Package Description"
+msgstr ""
+
+#: ../inc/acf/data.php:2104
+msgid "Text for a highlighted box"
+msgstr ""
+
+#: ../inc/acf/data.php:2112
+msgid "Button Label"
+msgstr ""
+
+#: ../inc/acf/data.php:2125
+msgid "Package Link"
+msgstr ""
+
+#: ../inc/acf/data.php:2128
+msgid "Link to the registration page of the selected package"
+msgstr ""
+
+#: ../inc/acf/data.php:2139
+msgid "Table Position"
+msgstr ""
+
+#: ../inc/acf/data.php:2142
+msgid "Position from left in the pricing table"
+msgstr ""
+
+#: ../inc/acf/data.php:2177
+msgid "Page Settings"
+msgstr ""
+
+#: ../inc/acf/data.php:2183
+msgid "Use Title as a Header"
+msgstr ""
+
+#: ../inc/acf/data.php:2186
+msgid "Uncheck if you don't want a page title to appear as a header"
+msgstr ""
+
+#: ../inc/acf/data.php:2192
+msgid "Make top bar transparent"
+msgstr ""
+
+#: ../inc/acf/data.php:2200
+msgid "Extra padding on top"
+msgstr ""
+
+#: ../inc/acf/data.php:2203
+msgid "Check this if you want to add extra padding on top of the page"
+msgstr ""
+
+#: ../inc/acf/data.php:2233
+msgid "Portfolio Settings"
+msgstr ""
+
+#: ../inc/acf/data.php:2239 ../inc/js_composer_extend/my_map.php:24
+msgid "Content Type"
+msgstr ""
+
+#: ../inc/acf/data.php:2243 ../inc/js_composer_extend/my_map.php:26
+msgid "Image(s)"
+msgstr ""
+
+#: ../inc/acf/data.php:2244 ../inc/js_composer_extend/my_map.php:26
+msgid "Video"
+msgstr ""
+
+#: ../inc/acf/data.php:2252 ../inc/js_composer/config/map.php:435
+#: ../inc/js_composer_extend/my_map.php:31
+#: ../inc/js_composer_extend/my_map.php:102
+msgid "Images"
+msgstr ""
+
+#: ../inc/acf/data.php:2270 ../inc/js_composer/config/map.php:370
+#: ../inc/js_composer/config/map.php:442
+#: ../inc/js_composer_extend/my_map.php:39
+#: ../inc/js_composer_extend/my_map.php:109
+msgid "Image size"
+msgstr ""
+
+#: ../inc/acf/data.php:2273 ../inc/js_composer/config/map.php:372
+#: ../inc/js_composer/config/map.php:444
+#: ../inc/js_composer_extend/my_map.php:41
+#: ../inc/js_composer_extend/my_map.php:111
+msgid ""
+"Enter image size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height). Leave empty to use 'thumbnail' size."
+msgstr ""
+
+#: ../inc/acf/data.php:2294
+msgid "Show Image Lightbox on Click"
+msgstr ""
+
+#: ../inc/acf/data.php:2297
+msgid ""
+"Check this if you want a lightbox to appera when you click on the image of "
+"portfoio item"
+msgstr ""
+
+#: ../inc/acf/data.php:2303
+msgid "Custom image for lightbox"
+msgstr ""
+
+#: ../inc/acf/data.php:2306
+msgid ""
+"You can set a set of custom image to be shown when you activate a lightbox, "
+"if you don't select anything it will show images that you selected before in "
+"field called \"Images\"."
+msgstr ""
+
+#: ../inc/acf/data.php:2324
+msgid "Video Link"
+msgstr ""
+
+#: ../inc/acf/data.php:2327
+msgid ""
+"Link to the video. More about supported formats at <a href=\"http://codex."
+"wordpress.org/Embeds#Okay.2C_So_What_Sites_Can_I_Embed_From.3F\" target="
+"\"_blank\">WordPress codex page</a>"
+msgstr ""
+
+#: ../inc/acf/data.php:2348
+msgid "Featured"
+msgstr ""
+
+#: ../inc/acf/data.php:2356
+msgid "Frame Type"
+msgstr ""
+
+#: ../inc/acf/data.php:2360 ../inc/js_composer_extend/my_map.php:57
+msgid "Browser"
+msgstr ""
+
+#: ../inc/acf/data.php:2361 ../inc/js_composer_extend/my_map.php:57
+msgid "Phone"
+msgstr ""
+
+#: ../inc/acf/data.php:2362
+msgid "Picture"
+msgstr ""
+
+#: ../inc/acf/data.php:2363 ../inc/js_composer_extend/my_map.php:57
+msgid "Plain"
+msgstr ""
+
+#: ../inc/acf/data.php:2364 ../inc/js_composer_extend/my_map.php:57
+msgid "No Frame"
+msgstr ""
+
+#: ../inc/acf/data.php:2372
+msgid "Browser URL text"
+msgstr ""
+
+#: ../inc/acf/data.php:2375
+msgid "Text that appears in the browser url bar"
+msgstr ""
+
+#: ../inc/acf/data.php:2396
+msgid "Description Column Position"
+msgstr ""
+
+#: ../inc/acf/data.php:2399
+msgid "Where do you want the description to be related to the image."
+msgstr ""
+
+#: ../inc/acf/data.php:2401
+msgid "Left"
+msgstr ""
+
+#: ../inc/acf/data.php:2402
+msgid "Right"
+msgstr ""
+
+#: ../inc/acf/data.php:2403
+msgid "Bottom"
+msgstr ""
+
+#: ../inc/acf/data.php:2412
+msgid "Description Column Width"
+msgstr ""
+
+#: ../inc/acf/data.php:2415
+msgid ""
+"Select a width of the description block for the portfolio item. Note: For "
+"the mobile portfolio item type recommended width is 65%."
+msgstr ""
+
+#: ../inc/acf/data.php:2440
+msgid "Wrap description in a box"
+msgstr ""
+
+#: ../inc/acf/data.php:2443
+msgid ""
+"Wrap the description content into the box - great for dark backgrounds, this "
+"will allow text to pop."
+msgstr ""
+
+#: ../inc/acf/data.php:2449
+msgid "Link to external website"
+msgstr ""
+
+#: ../inc/acf/data.php:2485
+msgid "Layout type"
+msgstr ""
+
+#: ../inc/acf/data.php:2489
+msgid "Web application - single shot centered"
+msgstr ""
+
+#: ../inc/acf/data.php:2490
+msgid "Web application - single shot aside"
+msgstr ""
+
+#: ../inc/acf/data.php:2491
+msgid "Web application - three shots lined up"
+msgstr ""
+
+#: ../inc/acf/data.php:2492
+msgid "Web application - three shots behind each other"
+msgstr ""
+
+#: ../inc/acf/data.php:2493
+msgid "Mobile Application"
+msgstr ""
+
+#: ../inc/acf/data.php:2501
+msgid "Slide Position"
+msgstr ""
+
+#: ../inc/acf/data.php:2504
+msgid "Set the position in which slider will appear."
+msgstr ""
+
+#: ../inc/acf/data.php:2539
+msgid "Sub Title"
+msgstr ""
+
+#: ../inc/acf/data.php:2542
+msgid "Text that goes under member's name."
+msgstr ""
+
+#: ../inc/acf/data.php:2552
+msgid "Has Contact Information"
+msgstr ""
+
+#: ../inc/acf/data.php:2555
+msgid "Do you want to show contact information for team members."
+msgstr ""
+
+#: ../inc/acf/data.php:2561
+msgid "Twitter URL"
+msgstr ""
+
+#: ../inc/acf/data.php:2584
+msgid "Facebook URL"
+msgstr ""
+
+#: ../inc/acf/data.php:2607
+msgid "LinkedIn URL"
+msgstr ""
+
+#: ../inc/acf/data.php:2630
+msgid "Pinterest URL"
+msgstr ""
+
+#: ../inc/acf/data.php:2653 ../inc/acf/main/core/fields/email.php:19
+msgid "Email"
+msgstr ""
+
+#: ../inc/acf/data.php:2676
+msgid "Phone Number"
+msgstr ""
+
+#: ../inc/acf/data.php:2723
+msgid "Person Name"
+msgstr ""
+
+#: ../inc/acf/data.php:2735
+msgid "Company Name"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:22
+msgid "Gallery"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:23
+#: ../inc/acf/main/core/fields/file.php:20
+#: ../inc/acf/main/core/fields/image.php:20
+#: ../inc/acf/main/core/fields/wysiwyg.php:20
+#: ../inc/js_composer/config/map.php:32 ../inc/js_composer/config/map.php:83
+#: ../inc/js_composer/config/map.php:147 ../inc/js_composer/config/map.php:157
+#: ../inc/js_composer/config/map.php:191 ../inc/js_composer/config/map.php:309
+#: ../inc/js_composer/config/map.php:352 ../inc/js_composer/config/map.php:410
+#: ../inc/js_composer/config/map.php:488 ../inc/js_composer/config/map.php:535
+#: ../inc/js_composer/config/map.php:602 ../inc/js_composer/config/map.php:667
+#: ../inc/js_composer/config/map.php:697 ../inc/js_composer/config/map.php:798
+#: ../inc/js_composer/config/map.php:976
+#: ../inc/js_composer/config/map.php:1037
+#: ../inc/js_composer/config/map.php:1111
+#: ../inc/js_composer/config/map.php:1141
+#: ../inc/js_composer/config/map.php:1237
+#: ../inc/js_composer/config/map.php:1289
+#: ../inc/js_composer/config/map.php:1366
+#: ../inc/js_composer/config/map.php:1408
+#: ../inc/js_composer/config/map.php:1455
+#: ../inc/js_composer/config/map.php:1496
+#: ../inc/js_composer/config/map.php:2019
+#: ../inc/js_composer_extend/my_map.php:20
+#: ../inc/js_composer_extend/my_map.php:98
+msgid "Content"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:94
+msgid "Add Image to Gallery"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:95
+#: ../inc/acf/main/core/fields/image.php:28
+msgid "Edit Image"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:144
+#: ../inc/acf/addons/acf-gallery/gallery.php:195
+#: ../inc/acf/main/core/controllers/field_groups.php:147
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:226
+#: ../inc/js_composer/composer/lib/params/vc_link/vc_link.php:6
+#: ../inc/js_composer/composer/shortcodes_templates/vc_text_separator.php:4
+#: ../inc/js_composer/config/map.php:161 ../inc/js_composer/config/map.php:164
+#: ../inc/js_composer/config/map.php:581 ../inc/js_composer/config/map.php:653
+#: ../inc/js_composer/config/map.php:773 ../inc/js_composer/config/map.php:885
+#: ../inc/js_composer_extend/my_map.php:115
+#: ../inc/js_composer_extend/my_map.php:146
+#: ../inc/js_composer_extend/my_map.php:179
+#: ../inc/js_composer_extend/my_map.php:212
+#: ../inc/js_composer_extend/my_map.php:244
+#: ../inc/js_composer_extend/my_map.php:276
+#: ../inc/js_composer_extend/my_map.php:332
+msgid "Title"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:148
+#: ../inc/acf/addons/acf-gallery/gallery.php:199
+msgid "Alternate Text"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:152
+#: ../inc/acf/addons/acf-gallery/gallery.php:203
+msgid "Caption"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:156
+#: ../inc/acf/addons/acf-gallery/gallery.php:207
+#: ../inc/js_composer/config/map.php:835
+msgid "Description"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:165
+#: ../inc/acf/addons/acf-gallery/gallery.php:216
+#: ../inc/acf/main/core/fields/image.php:83
+msgid "Remove"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:177
+#: ../inc/acf/addons/acf-gallery/gallery.php:716
+#: ../inc/acf/main/core/fields/image.php:90
+#: ../inc/js_composer/composer/build.php:311
+msgid "Add Image"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:178
+#: ../inc/js_composer/config/map.php:727
+#: ../inc/js_composer/config/map.php:2048
+#: ../inc/js_composer_extend/my_map.php:362
+msgid "Grid"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:179
+msgid "List"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:181
+msgid "No images selected"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:181
+msgid "1 image selected"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:181
+msgid "{count} images selected"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:255
+#: ../inc/acf/main/core/fields/image.php:139
+msgid "Preview Size"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:256
+msgid "Thumbnail is advised"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:428
+msgid "Image Updated"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:639
+#: ../inc/js_composer/composer/lib/helpers.php:245
+msgid "Added"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:659
+msgid "Image already exists in gallery"
+msgstr ""
+
+#: ../inc/acf/addons/acf-gallery/gallery.php:719
+#: ../inc/acf/main/core/fields/image.php:29
+msgid "Update Image"
+msgstr ""
+
+#: ../inc/acf/addons/acf-options-page/acf-options-page.php:30
+#: ../inc/acf/addons/acf-options-page/acf-options-page.php:31
+#: ../inc/acf/main/core/controllers/field_group.php:377
+#: ../inc/js_composer/config/map.php:1327
+#: ../inc/js_composer/config/map.php:1842
+#: ../inc/js_composer/config/map.php:1876
+#: ../inc/js_composer/config/map.php:1905
+#: ../inc/js_composer/config/map.php:1948
+msgid "Options"
+msgstr ""
+
+#: ../inc/acf/addons/acf-options-page/acf-options-page.php:201
+#: ../inc/acf/main/core/controllers/addons.php:144
+#: ../inc/acf/main/core/controllers/field_groups.php:448
+msgid "Options Page"
+msgstr ""
+
+#: ../inc/acf/addons/acf-options-page/acf-options-page.php:333
+msgid "Options Updated"
+msgstr ""
+
+#: ../inc/acf/addons/acf-options-page/acf-options-page.php:478
+msgid "No Custom Field Group found for the options page"
+msgstr ""
+
+#: ../inc/acf/addons/acf-options-page/acf-options-page.php:478
+msgid "Create a Custom Field Group"
+msgstr ""
+
+#: ../inc/acf/addons/acf-options-page/acf-options-page.php:489
+#: ../inc/acf/main/core/controllers/field_group.php:707
+msgid "Publish"
+msgstr ""
+
+#: ../inc/acf/addons/acf-options-page/acf-options-page.php:493
+msgid "Save Options"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:342
+msgid "Field&nbsp;Groups"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:343
+#: ../inc/acf/main/core/controllers/field_groups.php:214
+msgid "Advanced Custom Fields"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:345
+msgid "Add New Field Group"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:346
+msgid "Edit Field Group"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:347
+msgid "New Field Group"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:348
+msgid "View Field Group"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:349
+msgid "Search Field Groups"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:350
+msgid "No Field Groups found"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:351
+msgid "No Field Groups found in Trash"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:459
+#: ../inc/acf/main/core/views/meta_box_options.php:96
+msgid "Custom Fields"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:477 ../inc/acf/main/acf.php:480
+msgid "Field group updated."
+msgstr ""
+
+#: ../inc/acf/main/acf.php:478
+msgid "Custom field updated."
+msgstr ""
+
+#: ../inc/acf/main/acf.php:479
+msgid "Custom field deleted."
+msgstr ""
+
+#: ../inc/acf/main/acf.php:482
+#, php-format
+msgid "Field group restored to revision from %s"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:483
+msgid "Field group published."
+msgstr ""
+
+#: ../inc/acf/main/acf.php:484
+msgid "Field group saved."
+msgstr ""
+
+#: ../inc/acf/main/acf.php:485
+msgid "Field group submitted."
+msgstr ""
+
+#: ../inc/acf/main/acf.php:486
+msgid "Field group scheduled for."
+msgstr ""
+
+#: ../inc/acf/main/acf.php:487
+msgid "Field group draft updated."
+msgstr ""
+
+#: ../inc/acf/main/acf.php:622
+msgid "Thumbnail"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:623 ../inc/js_composer/config/map.php:270
+msgid "Medium"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:624 ../inc/js_composer/config/map.php:13
+#: ../inc/js_composer_extend/my_map.php:2
+msgid "Large"
+msgstr ""
+
+#: ../inc/acf/main/acf.php:625
+msgid "Full"
+msgstr ""
+
+#: ../inc/acf/main/core/api.php:1094
+#: ../inc/js_composer/composer/lib/layouts.php:259
+msgid "Update"
+msgstr ""
+
+#: ../inc/acf/main/core/api.php:1095
+msgid "Post updated"
+msgstr ""
+
+#: ../inc/acf/main/core/actions/export.php:23
+#: ../inc/acf/main/core/views/meta_box_fields.php:58
+#: ../inc/js_composer/config/map.php:197
+msgid "Error"
+msgstr ""
+
+#: ../inc/acf/main/core/actions/export.php:30
+msgid "No ACF groups selected"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:42
+#: ../inc/acf/main/core/controllers/export.php:368
+#: ../inc/acf/main/core/controllers/field_groups.php:311
+msgid "Add-ons"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:130
+#: ../inc/acf/main/core/controllers/field_groups.php:432
+msgid "Repeater Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:131
+msgid "Create infinite rows of repeatable data with this versatile interface!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:137
+#: ../inc/acf/main/core/controllers/field_groups.php:440
+msgid "Gallery Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:138
+msgid "Create image galleries in a simple and intuitive interface!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:145
+msgid "Create global data to use throughout your website!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:151
+msgid "Flexible Content Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:152
+msgid "Create unique designs with a flexible content layout manager!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:161
+msgid "Gravity Forms Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:162
+msgid "Creates a select field populated with Gravity Forms!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:168
+msgid "Date & Time Picker"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:169
+msgid "jQuery date & time picker"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:175
+msgid "Location Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:176
+msgid "Find addresses and coordinates of a desired location"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:182
+msgid "Contact Form 7 Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:183
+msgid "Assign one or more contact form 7 forms to a post"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:193
+msgid "Advanced Custom Fields Add-Ons"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:196
+msgid ""
+"The following Add-ons are available to increase the functionality of the "
+"Advanced Custom Fields plugin."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:197
+msgid ""
+"Each Add-on can be installed as a separate plugin (receives updates) or "
+"included in your theme (does not receive updates)."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:219
+#: ../inc/acf/main/core/controllers/addons.php:240
+msgid "Installed"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:221
+msgid "Purchase & Install"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/addons.php:242
+#: ../inc/acf/main/core/controllers/field_groups.php:425
+#: ../inc/acf/main/core/controllers/field_groups.php:434
+#: ../inc/acf/main/core/controllers/field_groups.php:442
+#: ../inc/acf/main/core/controllers/field_groups.php:450
+#: ../inc/acf/main/core/controllers/field_groups.php:458
+msgid "Download"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:50
+#: ../inc/acf/main/core/controllers/export.php:159
+msgid "Export"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:216
+msgid "Export Field Groups"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:221
+msgid "Field Groups"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:222
+msgid "Select the field groups to be exported"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:239
+#: ../inc/acf/main/core/controllers/export.php:252
+msgid "Export to XML"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:242
+#: ../inc/acf/main/core/controllers/export.php:267
+msgid "Export to PHP"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:253
+msgid ""
+"ACF will create a .xml export file which is compatible with the native WP "
+"import plugin."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:254
+msgid ""
+"Imported field groups <b>will</b> appear in the list of editable field "
+"groups. This is useful for migrating fields groups between Wp websites."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:256
+msgid "Select field group(s) from the list and click \"Export XML\""
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:257
+msgid "Save the .xml file when prompted"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:258
+msgid "Navigate to Tools &raquo; Import and select WordPress"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:259
+msgid "Install WP import plugin if prompted"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:260
+msgid "Upload and import your exported .xml file"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:261
+msgid "Select your user and ignore Import Attachments"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:262
+msgid "That's it! Happy WordPressing"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:268
+msgid "ACF will create the PHP code to include in your theme."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:269
+#: ../inc/acf/main/core/controllers/export.php:310
+msgid ""
+"Registered field groups <b>will not</b> appear in the list of editable field "
+"groups. This is useful for including fields in themes."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:270
+#: ../inc/acf/main/core/controllers/export.php:311
+msgid ""
+"Please note that if you export and register field groups within the same WP, "
+"you will see duplicate fields on your edit screens. To fix this, please move "
+"the original field group to the trash or remove the code from your functions."
+"php file."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:272
+msgid "Select field group(s) from the list and click \"Create PHP\""
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:273
+#: ../inc/acf/main/core/controllers/export.php:302
+msgid "Copy the PHP code generated"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:274
+#: ../inc/acf/main/core/controllers/export.php:303
+msgid "Paste into your functions.php file"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:275
+#: ../inc/acf/main/core/controllers/export.php:304
+msgid "To activate any Add-ons, edit and use the code in the first few lines."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:295
+msgid "Export Field Groups to PHP"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:300
+#: ../inc/acf/main/core/fields/tab.php:65
+msgid "Instructions"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:309
+msgid "Notes"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:316
+msgid "Include in theme"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:317
+msgid ""
+"The Advanced Custom Fields plugin can be included within a theme. To do so, "
+"move the ACF plugin inside your theme and add the following code to your "
+"functions.php file:"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:323
+msgid ""
+"To remove all visual interfaces from the ACF plugin, you can use a constant "
+"to enable lite mode. Add the following code to your functions.php file "
+"<b>before</b> the include_once code:"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:331
+msgid "Back to export"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:352
+msgid ""
+"/**\n"
+" *  Install Add-ons\n"
+" *  \n"
+" *  The following code will include all 4 premium Add-Ons in your theme.\n"
+" *  Please do not attempt to include a file which does not exist. This will "
+"produce an error.\n"
+" *  \n"
+" *  The following code assumes you have a folder 'add-ons' inside your "
+"theme.\n"
+" *\n"
+" *  IMPORTANT\n"
+" *  Add-ons may be included in a premium theme/plugin as outlined in the "
+"terms and conditions.\n"
+" *  For more information, please read:\n"
+" *  - http://www.advancedcustomfields.com/terms-conditions/\n"
+" *  - http://www.advancedcustomfields.com/resources/getting-started/"
+"including-lite-mode-in-a-plugin-theme/\n"
+" */"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:375
+msgid ""
+"/**\n"
+" *  Register Field Groups\n"
+" *\n"
+" *  The register_field_group function accepts 1 array which holds the "
+"relevant data to register a field group\n"
+" *  You may edit the array as you see fit. However, this may result in "
+"errors if the array is not compatible with ACF\n"
+" */"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/export.php:426
+msgid "No field groups were selected"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:375
+#: ../inc/acf/main/core/controllers/field_group.php:437
+#: ../inc/acf/main/core/controllers/field_groups.php:148
+msgid "Fields"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:376
+msgid "Location"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:439
+msgid "Show Field Key:"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:440
+#: ../inc/acf/main/core/fields/page_link.php:138
+#: ../inc/acf/main/core/fields/page_link.php:159
+#: ../inc/acf/main/core/fields/post_object.php:328
+#: ../inc/acf/main/core/fields/post_object.php:349
+#: ../inc/acf/main/core/fields/select.php:224
+#: ../inc/acf/main/core/fields/select.php:243
+#: ../inc/acf/main/core/fields/taxonomy.php:341
+#: ../inc/acf/main/core/fields/user.php:285
+#: ../inc/acf/main/core/fields/wysiwyg.php:229
+#: ../inc/acf/main/core/views/meta_box_fields.php:209
+#: ../inc/acf/main/core/views/meta_box_fields.php:232
+#: ../inc/js_composer/config/map.php:22 ../inc/js_composer/config/map.php:1510
+#: ../inc/js_composer/config/map.php:1518
+#: ../inc/js_composer/config/map.php:1526
+#: ../inc/js_composer_extend/my_map.php:10
+msgid "No"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:441
+#: ../inc/acf/main/core/fields/page_link.php:137
+#: ../inc/acf/main/core/fields/page_link.php:158
+#: ../inc/acf/main/core/fields/post_object.php:327
+#: ../inc/acf/main/core/fields/post_object.php:348
+#: ../inc/acf/main/core/fields/select.php:223
+#: ../inc/acf/main/core/fields/select.php:242
+#: ../inc/acf/main/core/fields/taxonomy.php:340
+#: ../inc/acf/main/core/fields/user.php:284
+#: ../inc/acf/main/core/fields/wysiwyg.php:228
+#: ../inc/acf/main/core/views/meta_box_fields.php:208
+#: ../inc/acf/main/core/views/meta_box_fields.php:231
+#: ../inc/js_composer/config/map.php:1510
+#: ../inc/js_composer/config/map.php:1518
+#: ../inc/js_composer/config/map.php:1526
+#: ../inc/js_composer_extend/extend.php:28
+#: ../inc/js_composer_extend/extend.php:55
+#: ../inc/js_composer_extend/my_map.php:85
+#: ../inc/js_composer_extend/my_map.php:162
+#: ../inc/js_composer_extend/my_map.php:377
+#: ../inc/js_composer_extend/my_map.php:383
+#: ../inc/js_composer_extend/my_map.php:389
+#: ../inc/js_composer_extend/my_map.php:395
+#: ../inc/js_composer_extend/my_map.php:401
+msgid "Yes"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:618
+msgid "Front Page"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:619
+msgid "Posts Page"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:620
+msgid "Top Level Page (parent of 0)"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:621
+msgid "Parent Page (has children)"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:622
+msgid "Child Page (has parent)"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:630
+msgid "Default Template"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:708
+msgid "Pending Review"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:709
+msgid "Draft"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:710
+msgid "Future"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:711
+msgid "Private"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:712
+msgid "Revision"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:713
+msgid "Trash"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_group.php:726
+msgid "Super Admin"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:216
+#: ../inc/acf/main/core/controllers/field_groups.php:257
+msgid "Changelog"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:217
+msgid "See what's new in"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:217
+msgid "version"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:219
+msgid "Resources"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:221
+msgid "Getting Started"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:222
+msgid "Field Types"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:223
+msgid "Functions"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:224
+msgid "Actions"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:225
+#: ../inc/acf/main/core/fields/relationship.php:638
+msgid "Filters"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:226
+msgid "'How to' guides"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:227
+msgid "Tutorials"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:232
+msgid "Created by"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:235
+msgid "Vote"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:236
+msgid "Follow"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:248
+msgid "Welcome to Advanced Custom Fields"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:249
+msgid "Thank you for updating to the latest version!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:249
+msgid "is more polished and enjoyable than ever before. We hope you like it."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:256
+msgid "What’s New"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:259
+msgid "Download Add-ons"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:313
+msgid "Activation codes have grown into plugins!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:314
+msgid ""
+"Add-ons are now activated by downloading and installing individual plugins. "
+"Although these plugins will not be hosted on the wordpress.org repository, "
+"each Add-on will continue to receive updates in the usual way."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:320
+msgid "All previous Add-ons have been successfully installed"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:324
+msgid "This website uses premium Add-ons which need to be downloaded"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:324
+msgid "Download your activated Add-ons"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:329
+msgid ""
+"This website does not use premium Add-ons and will not be affected by this "
+"change."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:339
+msgid "Easier Development"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:341
+msgid "New Field Types"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:343
+msgid "Taxonomy Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:344
+msgid "User Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:345
+msgid "Email Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:346
+msgid "Password Field"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:348
+msgid "Custom Field Types"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:349
+msgid ""
+"Creating your own field type has never been easier! Unfortunately, version 3 "
+"field types are not compatible with version 4."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:350
+msgid "Migrating your field types is easy, please"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:350
+msgid "follow this tutorial"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:350
+msgid "to learn more."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:352
+msgid "Actions &amp; Filters"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:353
+msgid ""
+"All actions & filters have received a major facelift to make customizing ACF "
+"even easier! Please"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:353
+msgid "read this guide"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:353
+msgid "to find the updated naming convention."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:355
+msgid "Preview draft is now working!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:356
+msgid "This bug has been squashed along with many other little critters!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:356
+msgid "See the full changelog"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:360
+msgid "Important"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:362
+msgid "Database Changes"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:363
+msgid ""
+"Absolutely <strong>no</strong> changes have been made to the database "
+"between versions 3 and 4. This means you can roll back to version 3 without "
+"any issues."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:365
+msgid "Potential Issues"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:366
+msgid ""
+"Do to the sizable changes surounding Add-ons, field types and action/"
+"filters, your website may not operate correctly. It is important that you "
+"read the full"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:366
+msgid "Migrating from v3 to v4"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:366
+msgid "guide to view the full list of changes."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:369
+msgid "Really Important!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:369
+msgid ""
+"If you updated the ACF plugin without prior knowledge of such changes, "
+"please roll back to the latest"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:369
+msgid "version 3"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:369
+msgid "of this plugin."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:374
+msgid "Thank You"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:375
+msgid ""
+"A <strong>BIG</strong> thank you to everyone who has helped test the version "
+"4 beta and for all the support I have received."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:376
+msgid "Without you all, this release would not have been possible!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:380
+msgid "Changelog for"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:396
+msgid "Learn more"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:402
+msgid "Overview"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:404
+msgid ""
+"Previously, all Add-ons were unlocked via an activation code (purchased from "
+"the ACF Add-ons store). New to v4, all Add-ons act as separate plugins which "
+"need to be individually downloaded, installed and updated."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:406
+msgid ""
+"This page will assist you in downloading and installing each available Add-"
+"on."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:408
+msgid "Available Add-ons"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:410
+msgid "The following Add-ons have been detected as activated on this website."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:423
+msgid "Name"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:424
+msgid "Activation Code"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:456
+msgid "Flexible Content"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:466
+msgid "Installation"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:468
+msgid "For each Add-on available, please perform the following:"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:470
+msgid "Download the Add-on plugin (.zip file) to your desktop"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:471
+msgid "Navigate to"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:471
+msgid "Plugins > Add New > Upload"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:472
+msgid "Use the uploader to browse, select and install your Add-on (.zip file)"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:473
+msgid ""
+"Once the plugin has been uploaded and installed, click the 'Activate Plugin' "
+"link"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:474
+msgid "The Add-on is now installed and activated!"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/field_groups.php:488
+msgid "Awesome. Let's get to work"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/input.php:488
+msgid "Expand Details"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/input.php:489
+msgid "Collapse Details"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/input.php:492
+msgid "Validation Failed. One or more fields below are required."
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/upgrade.php:86
+msgid "Upgrade"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/upgrade.php:139
+msgid "What's new"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/upgrade.php:150
+msgid "credits"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/upgrade.php:684
+msgid "Modifying field group options 'show on page'"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/upgrade.php:738
+msgid "Modifying field option 'taxonomy'"
+msgstr ""
+
+#: ../inc/acf/main/core/controllers/upgrade.php:835
+msgid "Moving user custom fields from wp_options to wp_usermeta'"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/_base.php:124
+#: ../inc/acf/main/core/views/meta_box_location.php:74
+msgid "Basic"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:19
+#: ../inc/acf/main/core/fields/taxonomy.php:317
+msgid "Checkbox"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:20
+#: ../inc/acf/main/core/fields/radio.php:19
+#: ../inc/acf/main/core/fields/select.php:19
+#: ../inc/acf/main/core/fields/true_false.php:20
+msgid "Choice"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:137
+#: ../inc/acf/main/core/fields/radio.php:144
+#: ../inc/acf/main/core/fields/select.php:177
+msgid "Choices"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:138
+#: ../inc/acf/main/core/fields/select.php:178
+msgid "Enter each choice on a new line."
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:139
+#: ../inc/acf/main/core/fields/select.php:179
+msgid "For more control, you may specify both a value and label like this:"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:140
+#: ../inc/acf/main/core/fields/radio.php:150
+#: ../inc/acf/main/core/fields/select.php:180
+msgid "red : Red"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:140
+#: ../inc/acf/main/core/fields/radio.php:151
+#: ../inc/acf/main/core/fields/select.php:180
+msgid "blue : Blue"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:157
+#: ../inc/acf/main/core/fields/color_picker.php:89
+#: ../inc/acf/main/core/fields/email.php:106
+#: ../inc/acf/main/core/fields/number.php:116
+#: ../inc/acf/main/core/fields/radio.php:193
+#: ../inc/acf/main/core/fields/select.php:197
+#: ../inc/acf/main/core/fields/text.php:116
+#: ../inc/acf/main/core/fields/textarea.php:96
+#: ../inc/acf/main/core/fields/true_false.php:94
+#: ../inc/acf/main/core/fields/wysiwyg.php:171
+msgid "Default Value"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:158
+#: ../inc/acf/main/core/fields/select.php:198
+msgid "Enter each default value on a new line"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:174
+#: ../inc/acf/main/core/fields/message.php:20
+#: ../inc/acf/main/core/fields/radio.php:209
+#: ../inc/acf/main/core/fields/tab.php:20
+#: ../inc/js_composer/config/map.php:704
+#: ../inc/js_composer/config/map.php:2026
+#: ../inc/js_composer/config/map.php:2073
+msgid "Layout"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:185
+#: ../inc/acf/main/core/fields/radio.php:220
+#: ../inc/js_composer/config/map.php:251 ../inc/js_composer/config/map.php:297
+msgid "Vertical"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/checkbox.php:186
+#: ../inc/acf/main/core/fields/radio.php:221
+#: ../inc/js_composer/config/map.php:251 ../inc/js_composer/config/map.php:297
+msgid "Horizontal"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/color_picker.php:19
+msgid "Color Picker"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/color_picker.php:20
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:23
+msgid "jQuery"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/dummy.php:19
+msgid "Dummy"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/email.php:107
+#: ../inc/acf/main/core/fields/number.php:117
+#: ../inc/acf/main/core/fields/text.php:117
+#: ../inc/acf/main/core/fields/textarea.php:97
+#: ../inc/acf/main/core/fields/wysiwyg.php:172
+msgid "Appears when creating a new post"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/email.php:123
+#: ../inc/acf/main/core/fields/number.php:133
+#: ../inc/acf/main/core/fields/password.php:105
+#: ../inc/acf/main/core/fields/text.php:131
+#: ../inc/acf/main/core/fields/textarea.php:111
+msgid "Placeholder Text"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/email.php:124
+#: ../inc/acf/main/core/fields/number.php:134
+#: ../inc/acf/main/core/fields/password.php:106
+#: ../inc/acf/main/core/fields/text.php:132
+#: ../inc/acf/main/core/fields/textarea.php:112
+msgid "Appears within the input"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/email.php:138
+#: ../inc/acf/main/core/fields/number.php:148
+#: ../inc/acf/main/core/fields/password.php:120
+#: ../inc/acf/main/core/fields/text.php:146
+msgid "Prepend"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/email.php:139
+#: ../inc/acf/main/core/fields/number.php:149
+#: ../inc/acf/main/core/fields/password.php:121
+#: ../inc/acf/main/core/fields/text.php:147
+msgid "Appears before the input"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/email.php:153
+#: ../inc/acf/main/core/fields/number.php:163
+#: ../inc/acf/main/core/fields/password.php:135
+#: ../inc/acf/main/core/fields/text.php:161
+msgid "Append"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/email.php:154
+#: ../inc/acf/main/core/fields/number.php:164
+#: ../inc/acf/main/core/fields/password.php:136
+#: ../inc/acf/main/core/fields/text.php:162
+msgid "Appears after the input"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:19
+msgid "File"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:26
+msgid "Select File"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:27
+msgid "Edit File"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:28
+msgid "Update File"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:29
+#: ../inc/acf/main/core/fields/image.php:30
+msgid "uploaded to this post"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:123
+msgid "No File Selected"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:123
+msgid "Add File"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:153
+#: ../inc/acf/main/core/fields/image.php:118
+#: ../inc/acf/main/core/fields/taxonomy.php:365
+msgid "Return Value"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:164
+msgid "File Object"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:165
+msgid "File URL"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:166
+msgid "File ID"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:175
+#: ../inc/acf/main/core/fields/image.php:158
+msgid "Library"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/file.php:187
+#: ../inc/acf/main/core/fields/image.php:171
+msgid "Uploaded to post"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/image.php:27
+msgid "Select Image"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/image.php:90
+msgid "No image selected"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/image.php:119
+#: ../inc/acf/main/core/fields/relationship.php:570
+msgid "Specify the returned value on front end"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/image.php:129
+msgid "Image Object"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/image.php:130
+msgid "Image URL"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/image.php:131
+msgid "Image ID"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/image.php:140
+msgid "Shown when entering data"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/image.php:159
+msgid "Limit the media library choice"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/message.php:19
+#: ../inc/acf/main/core/fields/message.php:70
+#: ../inc/acf/main/core/fields/true_false.php:79
+msgid "Message"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/message.php:71
+msgid "Text &amp; HTML entered here will appear inline with the fields"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/message.php:72
+msgid "Please note that all text will first be passed through the wp function "
+msgstr ""
+
+#: ../inc/acf/main/core/fields/number.php:19
+msgid "Number"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/number.php:178
+msgid "Minimum Value"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/number.php:194
+msgid "Maximum Value"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/number.php:210
+msgid "Step Size"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/page_link.php:18
+msgid "Page Link"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/page_link.php:19
+#: ../inc/acf/main/core/fields/post_object.php:19
+#: ../inc/acf/main/core/fields/relationship.php:19
+#: ../inc/acf/main/core/fields/taxonomy.php:19
+#: ../inc/acf/main/core/fields/user.php:19
+msgid "Relational"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/page_link.php:103
+#: ../inc/acf/main/core/fields/post_object.php:268
+#: ../inc/acf/main/core/fields/relationship.php:589
+#: ../inc/acf/main/core/fields/relationship.php:668
+#: ../inc/acf/main/core/views/meta_box_location.php:75
+msgid "Post Type"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/page_link.php:127
+#: ../inc/acf/main/core/fields/post_object.php:317
+#: ../inc/acf/main/core/fields/select.php:214
+#: ../inc/acf/main/core/fields/taxonomy.php:331
+#: ../inc/acf/main/core/fields/user.php:275
+msgid "Allow Null?"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/page_link.php:148
+#: ../inc/acf/main/core/fields/post_object.php:338
+#: ../inc/acf/main/core/fields/select.php:233
+msgid "Select multiple values?"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/password.php:19
+msgid "Password"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/post_object.php:18
+msgid "Post Object"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/post_object.php:292
+#: ../inc/acf/main/core/fields/relationship.php:613
+msgid "Filter from Taxonomy"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/radio.php:18
+msgid "Radio Button"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/radio.php:145
+msgid "Enter your choices one per line"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/radio.php:147
+#: ../inc/js_composer/config/map.php:1314
+msgid "Red"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/radio.php:148
+#: ../inc/js_composer/config/map.php:1314
+msgid "Blue"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/radio.php:172
+msgid "Add 'other' choice to allow for custom values"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/radio.php:184
+msgid "Save 'other' values to the field's choices"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:18
+msgid "Relationship"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:29
+msgid "Maximum values reached ( {max} values )"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:425
+msgid "Search..."
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:436
+msgid "Filter by post type"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:569
+msgid "Return Format"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:580
+msgid "Post Objects"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:581
+msgid "Post IDs"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:647
+#: ../inc/js_composer/config/map.php:1544
+msgid "Search"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:648
+msgid "Post Type Select"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:656
+msgid "Elements"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:657
+msgid "Selected elements will be displayed in each result"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:666
+#: ../inc/acf/main/core/views/meta_box_options.php:103
+msgid "Featured Image"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:667
+msgid "Post Title"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/relationship.php:679
+msgid "Maximum posts"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/select.php:18
+#: ../inc/acf/main/core/fields/select.php:109
+#: ../inc/acf/main/core/fields/taxonomy.php:322
+#: ../inc/acf/main/core/fields/user.php:266
+msgid "Select"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/tab.php:19
+#: ../inc/js_composer/composer/build.php:321
+#: ../inc/js_composer/composer/lib/shortcodes/tabs.php:4
+#: ../inc/js_composer/config/map.php:573
+msgid "Tab"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/tab.php:68
+msgid ""
+"All fields proceeding this \"tab field\" (or until another \"tab field\"  is "
+"defined) will appear grouped on the edit screen."
+msgstr ""
+
+#: ../inc/acf/main/core/fields/tab.php:69
+msgid "You can use multiple tabs to break up your fields into sections."
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:18
+#: ../inc/acf/main/core/fields/taxonomy.php:276
+#: ../inc/js_composer/config/map.php:1695
+msgid "Taxonomy"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:211
+#: ../inc/acf/main/core/fields/taxonomy.php:220
+#: ../inc/js_composer/config/map.php:251 ../inc/js_composer/config/map.php:278
+#: ../inc/js_composer/config/map.php:937
+#: ../inc/js_composer_extend/my_map.php:188
+#: ../inc/js_composer_extend/my_map.php:416
+msgid "None"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:306
+#: ../inc/acf/main/core/fields/user.php:251
+#: ../inc/acf/main/core/views/meta_box_fields.php:91
+#: ../inc/acf/main/core/views/meta_box_fields.php:173
+msgid "Field Type"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:316
+#: ../inc/acf/main/core/fields/user.php:260
+msgid "Multiple Values"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:318
+#: ../inc/acf/main/core/fields/user.php:262
+msgid "Multi Select"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:320
+#: ../inc/acf/main/core/fields/user.php:264
+msgid "Single Value"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:321
+msgid "Radio Buttons"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:350
+msgid "Load & Save Terms to Post"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:358
+msgid ""
+"Load value based on the post's terms and update the post's terms on save"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:375
+msgid "Term Object"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/taxonomy.php:376
+msgid "Term ID"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/text.php:19
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:111
+#: ../inc/js_composer/config/map.php:88 ../inc/js_composer/config/map.php:1042
+#: ../inc/js_composer/config/map.php:1747
+#: ../inc/js_composer/config/map.php:1761
+#: ../inc/js_composer_extend/my_map.php:251
+msgid "Text"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/text.php:176
+#: ../inc/acf/main/core/fields/textarea.php:141
+msgid "Formatting"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/text.php:177
+#: ../inc/acf/main/core/fields/textarea.php:142
+msgid "Effects value on front end"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/text.php:186
+#: ../inc/acf/main/core/fields/textarea.php:151
+msgid "No formatting"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/text.php:187
+#: ../inc/acf/main/core/fields/textarea.php:153
+msgid "Convert HTML into tags"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/text.php:195
+#: ../inc/acf/main/core/fields/textarea.php:126
+msgid "Character Limit"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/text.php:196
+#: ../inc/acf/main/core/fields/textarea.php:127
+msgid "Leave blank for no limit"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/textarea.php:19
+msgid "Text Area"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/textarea.php:152
+msgid "Convert new lines into &lt;br /&gt; tags"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/true_false.php:19
+msgid "True / False"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/true_false.php:80
+msgid "eg. Show extra content"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/user.php:18
+#: ../inc/acf/main/core/views/meta_box_location.php:94
+#: ../inc/js_composer/config/map.php:1263
+msgid "User"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/user.php:224
+msgid "Filter by role"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/wysiwyg.php:19
+msgid "Wysiwyg Editor"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/wysiwyg.php:186
+msgid "Toolbar"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/wysiwyg.php:218
+msgid "Show Media Upload Buttons?"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:22
+msgid "Date Picker"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:30
+msgid "Done"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:31
+msgid "Today"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:34
+msgid "Show a different month"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:105
+msgid "Save format"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:106
+msgid ""
+"This format will determin the value saved to the database and returned via "
+"the API"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:107
+msgid "\"yymmdd\" is the most versatile save format. Read more about"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:107
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:123
+msgid "jQuery date formats"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:121
+msgid "Display format"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:122
+msgid "This format will be seen by the user when entering a value"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:123
+msgid ""
+"\"dd/mm/yy\" or \"mm/dd/yy\" are the most used display formats. Read more "
+"about"
+msgstr ""
+
+#: ../inc/acf/main/core/fields/date_picker/date_picker.php:137
+msgid "Week Starts On"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:24
+msgid "New Field"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:58
+msgid "Field type does not exist"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:63
+msgid "Move to trash. Are you sure?"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:64
+msgid "checked"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:65
+msgid "No toggle fields available"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:66
+msgid "Field group title is required"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:67
+msgid "copy"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:68
+#: ../inc/acf/main/core/views/meta_box_location.php:62
+#: ../inc/acf/main/core/views/meta_box_location.php:159
+msgid "or"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:88
+msgid "Field Order"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:89
+#: ../inc/acf/main/core/views/meta_box_fields.php:141
+msgid "Field Label"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:90
+#: ../inc/acf/main/core/views/meta_box_fields.php:157
+msgid "Field Name"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:92
+msgid "Field Key"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:104
+msgid ""
+"No fields. Click the <strong>+ Add Field</strong> button to create your "
+"first field."
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:119
+#: ../inc/acf/main/core/views/meta_box_fields.php:122
+msgid "Edit this Field"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:123
+msgid "Read documentation for this field"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:123
+msgid "Docs"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:124
+msgid "Duplicate this Field"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:124
+msgid "Duplicate"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:125
+msgid "Delete this Field"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:125
+msgid "Delete"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:142
+msgid "This is the name which will appear on the EDIT page"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:158
+msgid "Single word, no spaces. Underscores and dashes allowed"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:187
+msgid "Field Instructions"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:188
+msgid "Instructions for authors. Shown when submitting data"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:200
+msgid "Required?"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:223
+msgid "Conditional Logic"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:274
+#: ../inc/acf/main/core/views/meta_box_location.php:117
+msgid "is equal to"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:275
+#: ../inc/acf/main/core/views/meta_box_location.php:118
+msgid "is not equal to"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:293
+msgid "Show this field when"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:299
+msgid "all"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:300
+msgid "any"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:303
+msgid "these rules are met"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:317
+msgid "Close Field"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:330
+msgid "Drag and drop to reorder"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_fields.php:331
+msgid "+ Add Field"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:48
+msgid "Rules"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:49
+msgid ""
+"Create a set of rules to determine which edit screens will use these "
+"advanced custom fields"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:60
+msgid "Show this field group if"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:76
+msgid "Logged in User Type"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:78
+#: ../inc/acf/main/core/views/meta_box_location.php:79
+msgid "Page"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:80
+msgid "Page Type"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:81
+msgid "Page Parent"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:82
+msgid "Page Template"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:86
+msgid "Post Category"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:87
+msgid "Post Format"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:88
+msgid "Post Status"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:89
+msgid "Post Taxonomy"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:92
+msgid "Attachment"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:93
+msgid "Term"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:146
+msgid "and"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_location.php:161
+msgid "Add rule group"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:25
+msgid "Order No."
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:26
+msgid "Field groups are created in order <br />from lowest to highest"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:42
+msgid "Position"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:52
+msgid "Normal"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:53
+msgid "Side"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:72
+msgid "No Metabox"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:73
+msgid "Standard Metabox"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:82
+msgid "Hide on screen"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:83
+msgid "<b>Select</b> items to <b>hide</b> them from the edit screen"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:84
+msgid ""
+"If multiple field groups appear on an edit screen, the first field group's "
+"options will be used. (the one with the lowest order number)"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:94
+msgid "Content Editor"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:95
+msgid "Excerpt"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:97
+msgid "Discussion"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:99
+msgid "Revisions"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:100
+msgid "Slug"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:101
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:165
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:225
+#: ../inc/js_composer/config/map.php:773 ../inc/js_composer/config/map.php:885
+msgid "Author"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:102
+msgid "Format"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:104
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:166
+#: ../inc/js_composer/composer/shortcodes_templates/vc_wp_categories.php:4
+#: ../inc/js_composer/config/map.php:765 ../inc/js_composer/config/map.php:877
+#: ../inc/js_composer/config/map.php:1862
+msgid "Categories"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:105
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:167
+#: ../inc/js_composer/composer/shortcodes_templates/vc_wp_tagcloud.php:4
+msgid "Tags"
+msgstr ""
+
+#: ../inc/acf/main/core/views/meta_box_options.php:106
+msgid "Send Trackbacks"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:44
+msgid "Dowload new version"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:148
+#, php-format
+msgid ""
+"There is a new version of Visual Composer available. <a href=\"http://bit.ly/"
+"vcomposer\" target=\"_blank\">Download version <b>%s</b></a>."
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:309
+msgid "Add/remove picture"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:310
+msgid "Finish Adding Images"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:312
+msgid "Add Images"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:313
+#: ../inc/js_composer/composer/build.php:364
+#: ../inc/js_composer/composer/settings/settings.php:71
+msgid "Visual Composer"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:314
+msgid "Classic editor"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:315
+msgid "Please enter templates name"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:316
+msgid ""
+"Confirm deleting \"{template_name}\" template, press Cancel to leave. This "
+"action cannot be undone."
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:317
+msgid "Press OK to delete section, Cancel to leave"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:318
+msgid "Drag and drop me in the column"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:319
+msgid "Press OK to delete \"{tab_name}\" tab, Cancel to leave"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:322
+#: ../inc/js_composer/composer/build.php:325
+#: ../inc/js_composer/composer/shortcodes_templates/vc_accordion_tab.php:5
+msgid "Section"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:323
+msgid "Please enter new tab title"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:324
+msgid "Press OK to delete \"{tab_name}\" section, Cancel to leave"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:326
+msgid "Please enter new section title"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:327
+msgid "Error. Please try again."
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:328
+msgid ""
+"If you close this window all shortcode settings will be lost. Close this "
+"window?"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:329
+msgid "Select element type"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:330
+msgid "Media gallery"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:331
+msgid "Element settings"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:332
+msgid "Add tab"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:333
+msgid "Are you sure you want to convert to new version?"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:334
+#: ../inc/js_composer/composer/lib/layouts.php:205
+msgid "Loading..."
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:336
+msgid "Set Image"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:337
+msgid "Are you sure taht you want to remove all your data?"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:338
+msgid "Loop settings"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:339
+msgid "Enter custom layout for your row:"
+msgstr ""
+
+#: ../inc/js_composer/composer/build.php:340
+msgid "Wrong row layout format! Example: 1/2 + 1/2 or span6 + span6."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/helpers_api.php:4
+msgid "Wrong wpb_map object. Base attribute is required"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:14
+msgid "Wrong layout params"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:92
+msgid "Save current page as a Template"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:94
+msgid "Load Template"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:107
+msgid "No custom templates yet."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:150
+msgid "Show all"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:177
+msgid "Select Content Element"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:178
+msgid "Search by element name"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:193
+msgid "Close"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:209
+#: ../inc/js_composer/composer/lib/shortcodes.php:449
+#: ../woocommerce/myaccount/form-change-password.php:30
+#: ../woocommerce/myaccount/form-lost-password.php:46
+msgid "Save"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:210
+#: ../woocommerce/myaccount/my-orders.php:79
+msgid "Cancel"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:254
+msgid "Visual Composer for WordPress"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:273
+msgid "Add element"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:281
+msgid "Add row"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:289
+msgid "Templates"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:331
+msgid ""
+"Your page layout was created with previous Visual Composer version. Before "
+"converting your layout to the new version, make sure to <a target=\"_blank\" "
+"href=\"http://kb.wpbakery.com/index.php?"
+"title=Update_Visual_Composer_from_3.4_to_3.5\">read this page</a>."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:333
+msgid "Convert to new version"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:339
+#: ../inc/js_composer/composer/lib/layouts.php:376
+msgid "Loading, please wait..."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:344
+msgid "No content yet! You should add some..."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:348
+msgid ""
+"This is a visual preview of your page. Currently, you don't have any content "
+"elements. Click or drag the button <a href='#' class='add-element-to-"
+"layout'><i class='icon'></i> Add element</a> on the top to add content "
+"elements on your page. Alternatively add <a href='#' class='add-text-block-"
+"to-content' parent-container='#visual_composer_content'><i class='icon'></i> "
+"Text block</a> with single click."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:353
+msgid ""
+"Click the pencil icon on the content elements to change their properties."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/layouts.php:377
+msgid "Crunching..."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/mapper.php:56
+#: ../inc/js_composer/composer/lib/mapper.php:146
+#: ../inc/js_composer/composer/lib/mapper.php:170
+#: ../inc/js_composer/composer/lib/mapper.php:223
+#, php-format
+msgid "Wrong name for shortcode:%s. Name required"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/mapper.php:58
+#, php-format
+msgid "Wrong base for shortcode:%s. Base required"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/mapper.php:148
+#: ../inc/js_composer/composer/lib/mapper.php:172
+#, php-format
+msgid "Wrong attribute for '%s' shortcode. Attribute 'param_name' required"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/mapper.php:225
+#, php-format
+msgid "Wrong setting_name for shortcode:%s. Base can't be modified."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes.php:124
+#, php-format
+msgid ""
+"Wrong template for `%s` shortcode in class `%s`. Please check your mapping "
+"settings for this code. Error"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes.php:321
+#, php-format
+msgid "Edit %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes.php:322
+#, php-format
+msgid "Clone %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes.php:322
+#, php-format
+msgid "Delete %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes.php:501
+msgid ""
+"Field type is changed from `textarea_html` to `textarea`, because it is "
+"already used by `"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes.php:573
+#: ../inc/js_composer/composer/lib/shortcodes/image_gallery.php:27
+msgid "Add images"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes.php:588
+#: ../inc/js_composer/composer/lib/shortcodes/single_image.php:22
+msgid "Add image"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:14
+msgid "Build query"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:15
+msgid "Saved data"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:161
+msgid "Post Count"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:162
+msgid "Order By"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:163
+#: ../woocommerce/myaccount/my-orders.php:34
+msgid "Order"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:164
+#: ../inc/js_composer/config/map.php:685 ../inc/js_composer/config/map.php:829
+msgid "Post types"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:168
+#: ../inc/js_composer/config/map.php:740
+msgid "Taxonomies"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:169
+msgid "Individual Posts/Pages"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:223
+#: ../inc/js_composer/config/map.php:773 ../inc/js_composer/config/map.php:885
+#: ../woocommerce/myaccount/my-orders.php:35
+msgid "Date"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:228
+#: ../inc/js_composer/config/map.php:773 ../inc/js_composer/config/map.php:885
+msgid "Modified"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:230
+#: ../inc/js_composer/config/map.php:773 ../inc/js_composer/config/map.php:885
+#: ../inc/js_composer/config/map.php:1270
+#: ../inc/js_composer/config/map.php:1838
+msgid "Random"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:231
+#: ../inc/js_composer/config/map.php:773 ../inc/js_composer/config/map.php:885
+msgid "Comment count"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:232
+#: ../inc/js_composer/config/map.php:773 ../inc/js_composer/config/map.php:885
+msgid "Menu order"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:240
+#: ../inc/js_composer/config/map.php:780 ../inc/js_composer/config/map.php:892
+msgid "Ascending"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/loop/loop.php:241
+#: ../inc/js_composer/config/map.php:780 ../inc/js_composer/config/map.php:892
+msgid "Descending"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/teaser_template/teaser_template.php:24
+#: ../inc/js_composer/config/map.php:706
+msgid "Title + Thumbnail + Text"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/teaser_template/teaser_template.php:25
+#: ../inc/js_composer/config/map.php:706
+msgid "Thumbnail + Title + Text"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/teaser_template/teaser_template.php:26
+#: ../inc/js_composer/config/map.php:706
+msgid "Thumbnail + Text"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/teaser_template/teaser_template.php:27
+#: ../inc/js_composer/config/map.php:706
+msgid "Thumbnail + Title"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/teaser_template/teaser_template.php:28
+#: ../inc/js_composer/config/map.php:706
+msgid "Thumbnail only"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/teaser_template/teaser_template.php:29
+#: ../inc/js_composer/config/map.php:706
+msgid "Title + Text"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/vc_link/vc_link.php:6
+msgid "Select URL"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/params/vc_link/vc_link.php:6
+msgid "URL"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/column.php:19
+msgid "Append to this column"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/column.php:20
+msgid "Prepend to this column"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/column.php:23
+msgid "Edit this column"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/column.php:145
+#: ../inc/js_composer/config/map.php:61
+msgid "Column"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/column.php:157
+#: ../inc/js_composer/config/map.php:36 ../inc/js_composer/config/map.php:53
+#: ../inc/js_composer/config/map.php:68 ../inc/js_composer/config/map.php:95
+#: ../inc/js_composer/config/map.php:176 ../inc/js_composer/config/map.php:211
+#: ../inc/js_composer/config/map.php:339 ../inc/js_composer/config/map.php:397
+#: ../inc/js_composer/config/map.php:470 ../inc/js_composer/config/map.php:505
+#: ../inc/js_composer/config/map.php:553 ../inc/js_composer/config/map.php:625
+#: ../inc/js_composer/config/map.php:785 ../inc/js_composer/config/map.php:897
+#: ../inc/js_composer/config/map.php:927
+#: ../inc/js_composer/config/map.php:1023
+#: ../inc/js_composer/config/map.php:1097
+#: ../inc/js_composer/config/map.php:1128
+#: ../inc/js_composer/config/map.php:1184
+#: ../inc/js_composer/config/map.php:1275
+#: ../inc/js_composer/config/map.php:1333
+#: ../inc/js_composer/config/map.php:1426
+#: ../inc/js_composer/config/map.php:1473
+#: ../inc/js_composer/config/map.php:1558
+#: ../inc/js_composer/config/map.php:1580
+#: ../inc/js_composer/config/map.php:1608
+#: ../inc/js_composer/config/map.php:1630
+#: ../inc/js_composer/config/map.php:1666
+#: ../inc/js_composer/config/map.php:1702
+#: ../inc/js_composer/config/map.php:1738
+#: ../inc/js_composer/config/map.php:1772
+#: ../inc/js_composer/config/map.php:1807
+#: ../inc/js_composer/config/map.php:1853
+#: ../inc/js_composer/config/map.php:1882
+#: ../inc/js_composer/config/map.php:1911
+#: ../inc/js_composer/config/map.php:1954
+#: ../inc/js_composer/config/map.php:2067
+msgid "Extra class name"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/column.php:160
+#: ../inc/js_composer/config/map.php:38 ../inc/js_composer/config/map.php:55
+#: ../inc/js_composer/config/map.php:70 ../inc/js_composer/config/map.php:97
+#: ../inc/js_composer/config/map.php:178 ../inc/js_composer/config/map.php:213
+#: ../inc/js_composer/config/map.php:341 ../inc/js_composer/config/map.php:399
+#: ../inc/js_composer/config/map.php:472 ../inc/js_composer/config/map.php:507
+#: ../inc/js_composer/config/map.php:555 ../inc/js_composer/config/map.php:627
+#: ../inc/js_composer/config/map.php:787 ../inc/js_composer/config/map.php:899
+#: ../inc/js_composer/config/map.php:929
+#: ../inc/js_composer/config/map.php:1025
+#: ../inc/js_composer/config/map.php:1099
+#: ../inc/js_composer/config/map.php:1130
+#: ../inc/js_composer/config/map.php:1186
+#: ../inc/js_composer/config/map.php:1277
+#: ../inc/js_composer/config/map.php:1335
+#: ../inc/js_composer/config/map.php:1428
+#: ../inc/js_composer/config/map.php:1475
+#: ../inc/js_composer/config/map.php:1560
+#: ../inc/js_composer/config/map.php:1582
+#: ../inc/js_composer/config/map.php:1610
+#: ../inc/js_composer/config/map.php:1632
+#: ../inc/js_composer/config/map.php:1668
+#: ../inc/js_composer/config/map.php:1704
+#: ../inc/js_composer/config/map.php:1740
+#: ../inc/js_composer/config/map.php:1774
+#: ../inc/js_composer/config/map.php:1809
+#: ../inc/js_composer/config/map.php:1855
+#: ../inc/js_composer/config/map.php:1884
+#: ../inc/js_composer/config/map.php:1913
+#: ../inc/js_composer/config/map.php:1956
+#: ../inc/js_composer/config/map.php:2069
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:94
+msgid "Hello World"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:102
+msgid "Foo attribute"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:104
+msgid "I'm foo attribute"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:105
+msgid "Enter foo value."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:113
+msgid "I'm hello world"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:114
+#: ../inc/js_composer/config/map.php:1045
+msgid "Enter your content."
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:118
+msgid "Drop down example"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/example.php:121
+msgid "One, two or three?"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/row.php:32
+msgid "Custom layout"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/row.php:33
+msgid "Drag row to reorder"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/row.php:34
+msgid "Delete this row"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/row.php:35
+msgid "Edit this row"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/row.php:36
+msgid "Clone this row"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/tabs.php:23
+#, php-format
+msgid "Append to this %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/tabs.php:24
+#, php-format
+msgid "Prepend to this %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/tabs.php:27
+#, php-format
+msgid "Edit this %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/tabs.php:28
+#, php-format
+msgid "Clone this %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/tabs.php:30
+#, php-format
+msgid "Delete this %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/teaser_grid.php:14
+#, php-format
+msgid "View all posts filed under %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/lib/shortcodes/teaser_grid.php:31
+#, php-format
+msgid "Feed for all posts filed under %s"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:21
+msgid "General Settings"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:24
+msgid "Design Options"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:25
+msgid "Element Class Names"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:26
+msgid "Custom CSS"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:40
+msgid "Main accent color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:41
+msgid "Hover color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:42
+msgid "Call to action background color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:44
+msgid "Google maps background color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:45
+msgid "Post slider caption background color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:46
+msgid "Progress bar background color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:47
+msgid "Separator border color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:48
+msgid "Tabs navigation background color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:49
+msgid "Active tab background color"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:70
+msgid "Visual Composer Settings"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:94
+#: ../inc/js_composer/composer/settings/settings.php:96
+msgid "Content types"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:98
+msgid "User groups access rules"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:99
+msgid "Disable responsive content elements"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:106
+msgid "Use custom design options"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:119
+msgid "Elements bottom margin"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:123
+msgid "Grid gutter width"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:127
+msgid "Mobile screen width"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:155
+msgid "Paste your CSS code"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:236
+#: ../inc/js_composer/composer/settings/settings.php:237
+msgid "Are you sure you want to reset to defaults?"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:250
+msgid "Show Visual Composer & default editor"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:251
+msgid "Show only Visual Composer"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:252
+msgid "Don't allow to use Visual Composer"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:271
+msgid "Visual Composer access"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:279
+msgid "Enabled shortcodes"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:293
+msgid "Select All"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:293
+msgid "Select none"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:321
+#: ../inc/js_composer/composer/settings/settings.php:342
+msgid ""
+"Select for which content types Visual Composer should be available during "
+"post creation/editing."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:348
+msgid ""
+"If you want to add some custom CSS code to the plugin and don't want to "
+"modify any files, then it's a good place to enter your code at this field."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:358
+#: ../inc/js_composer/config/map.php:429 ../inc/js_composer/config/map.php:500
+#: ../inc/js_composer/config/map.php:548 ../inc/js_composer/config/map.php:824
+msgid "Disable"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:360
+msgid ""
+"Check this checkbox to prevent content elements from \"stacking\" one on top "
+"other (on small media screens, eg. mobile)."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:369
+msgid ""
+"To change class name for the row element, enter it here. By default vc_row "
+"is used."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:386
+msgid ""
+"To change class names for the columns elements, enter them here. By default "
+"vc_spanX are used, where X number from 1 to 12."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:397
+msgid "Enable"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:399
+msgid ""
+"Enable the use of custom design options for your site. When checked, custom "
+"css file will be used."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:411
+msgid ""
+"To change default vertical spacing between content elements, enter new value "
+"here. Example: 20px"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:416
+msgid ""
+"To change default horizontal spacing between columns, enter new value in "
+"percents here."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:422
+msgid ""
+"By default content elements \"stack\" one on top other when screen size is "
+"smaller then 480px. Here you can change that value if needed."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:437
+msgid ""
+"Here you can tweak default Visual Composer content elements visual "
+"appearance. By default Visual Composer is using neutral light-grey theme. "
+"Changing \"Main accent color\" will affect all content elements if no "
+"specific \"content block\" related color is set."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:520
+msgid "Invalid Margin value."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:525
+msgid "Invalid Gutter value."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:531
+msgid "Invalid \"Responsive max\" value."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:562
+#, php-format
+msgid ""
+"Visual Composer: Your css class names settings are deprecated. <a href=\"%s"
+"\">Click here to resolve</a>."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:595
+msgid "WPBakery Visual Composer Settings"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:609
+msgid ""
+"<strong>Deprecated:</strong> To override class names that are applied to "
+"Visual Composer content elements you should use WordPress add_filter"
+"('vc_shortcodes_css_class') function. <a class='vc_show_example'>See "
+"Example</a>."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:617
+msgid ""
+"You have used element class names settings to replace row and column css "
+"classes."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:618
+msgid ""
+"Below is code snippet which you should add to your functions.php file in "
+"your theme, to replace row and column classes with custom classes saved by "
+"you earlier."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:692
+#: ../inc/js_composer/composer/settings/settings.php:701
+msgid "Save Changes"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:692
+msgid "Remove all"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:704
+msgid "Restore to defaults"
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:820
+msgid ""
+"Something went wrong: js_composer_front_custom.css could not be created."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:822
+msgid "js_composer_front_custom.css could not be created. Connection error."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:824
+#, php-format
+msgid ""
+"js_composer_front_custom.css could not be created. Cannot write custom css "
+"to \"%s\"."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:826
+msgid "js_composer_front_custom.css could not be created. Problem with access."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:856
+msgid "Something went wrong: custom.css could not be created."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:858
+msgid "custom.css could not be created. Connection error."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:860
+msgid "custom.css could not be created. Cannot write custom css to \""
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:862
+msgid "custom.css could not be created. Problem with access."
+msgstr ""
+
+#: ../inc/js_composer/composer/settings/settings.php:891
+#: ../inc/js_composer/composer/settings/settings.php:897
+msgid "This is required to enable file writing for js_composer"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_accordion_tab.php:12
+#: ../inc/js_composer/composer/shortcodes_templates/vc_tab.php:9
+msgid "Empty section. Edit page to add content here."
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_button.php:10
+#: ../inc/js_composer/composer/shortcodes_templates/vc_cta_button.php:9
+#: ../inc/js_composer/config/map.php:980 ../inc/js_composer/config/map.php:984
+#: ../inc/js_composer/config/map.php:1049
+#: ../inc/js_composer/config/map.php:1051
+#: ../inc/js_composer_extend/templates/vc_button.php:10
+msgid "Text on the button"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_flickr.php:19
+msgid "View stream on flickr"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_posts_grid.php:111
+#: ../inc/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:183
+#: ../inc/js_composer_extend/templates/vc_teaser_grid.php:183
+msgid "Read more"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_posts_grid.php:188
+#: ../inc/js_composer/composer/shortcodes_templates/vc_posts_slider.php:191
+#: ../inc/js_composer/composer/shortcodes_templates/vc_teaser_grid.php:334
+#: ../inc/js_composer_extend/templates/vc_posts_slider.php:191
+#: ../inc/js_composer_extend/templates/vc_teaser_grid.php:334
+msgid "Nothing found."
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_single_image.php:18
+msgid "This is image placeholder, edit your page to replace it."
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_tabs.php:44
+#: ../inc/js_composer_extend/templates/vc_tabs.php:46
+msgid "Previous slide"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_tabs.php:44
+#: ../inc/js_composer_extend/templates/vc_tabs.php:46
+msgid "Next slide"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_toggle.php:4
+msgid "Click to toggle"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_tweetmeme.php:9
+msgid "Tweet"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_twitter.php:19
+msgid "Follow us on twitter"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_wp_meta.php:4
+#: ../inc/js_composer/config/map.php:1566
+msgid "Meta"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_wp_pages.php:4
+#: ../inc/js_composer/config/map.php:1638
+msgid "Pages"
+msgstr ""
+
+#: ../inc/js_composer/composer/shortcodes_templates/vc_wp_recentcomments.php:4
+#: ../inc/js_composer/config/map.php:1588
+msgid "Recent Comments"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:10 ../inc/js_composer_extend/my_map.php:3
+msgid "Primary"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:10
+msgid "Info"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:10 ../inc/js_composer/config/map.php:197
+#: ../inc/js_composer_extend/my_map.php:3
+msgid "Success"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:10 ../inc/js_composer/config/map.php:197
+#: ../inc/js_composer_extend/my_map.php:3
+msgid "Warning"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:10 ../inc/js_composer_extend/my_map.php:3
+msgid "Danger"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:10
+msgid "Inversed"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:13 ../inc/js_composer_extend/my_map.php:2
+msgid "Regular size"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:13 ../inc/js_composer_extend/my_map.php:2
+msgid "Huge"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:13 ../inc/js_composer/config/map.php:270
+#: ../inc/js_composer_extend/my_map.php:2
+msgid "Small"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:13 ../inc/js_composer_extend/my_map.php:2
+msgid "Mini"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:15
+msgid "Same window"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:15
+msgid "New window"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:19 ../inc/js_composer_extend/my_map.php:7
+msgid "CSS Animation"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:22
+#: ../inc/js_composer_extend/my_map.php:10
+msgid "Top to bottom"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:22
+#: ../inc/js_composer_extend/my_map.php:10
+msgid "Bottom to top"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:22
+#: ../inc/js_composer_extend/my_map.php:10
+msgid "Left to right"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:22
+#: ../inc/js_composer_extend/my_map.php:10
+msgid "Right to left"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:22
+#: ../inc/js_composer_extend/my_map.php:10
+msgid "Appear from center"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:23
+#: ../inc/js_composer_extend/my_map.php:11
+msgid ""
+"Select animation type if you want this element to be animated when it enters "
+"into the browsers viewport. Note: Works only in modern browsers."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:27 ../inc/js_composer/config/map.php:44
+msgid "Row"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:79
+msgid "Text Block"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:90
+msgid "<p>I am text block. Click edit button to change this text.</p>"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:143
+msgid "Separator"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:154
+msgid "Separator with Text"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:165
+msgid "Separator title."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:169
+msgid "Title position"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:171
+#: ../inc/js_composer_extend/extend.php:79
+#: ../inc/js_composer_extend/my_map.php:426
+msgid "Align center"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:171
+#: ../inc/js_composer/config/map.php:1092
+#: ../inc/js_composer_extend/extend.php:79
+#: ../inc/js_composer_extend/my_map.php:426
+msgid "Align left"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:171
+#: ../inc/js_composer/config/map.php:1092
+#: ../inc/js_composer_extend/extend.php:79
+#: ../inc/js_composer_extend/my_map.php:426
+msgid "Align right"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:172
+msgid "Select title location."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:187
+msgid "Message Box"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:195
+msgid "Message box type"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:197
+#: ../inc/js_composer_extend/my_map.php:3
+msgid "Informational"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:198
+msgid "Select message type."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:204
+msgid "Message text"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:206
+msgid "<p>I am message box. Click edit button to change this text.</p>"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:222
+msgid "Facebook Like"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:225 ../inc/js_composer/config/map.php:244
+#: ../inc/js_composer/config/map.php:263 ../inc/js_composer/config/map.php:290
+msgid "Social"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:229 ../inc/js_composer/config/map.php:248
+msgid "Button type"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:232 ../inc/js_composer/config/map.php:270
+msgid "Standard"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:232
+msgid "Button count"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:232
+msgid "Box count"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:233 ../inc/js_composer/config/map.php:252
+msgid "Select button type."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:241
+msgid "Tweetmeme Button"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:260
+msgid "Google+ Button"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:267
+msgid "Button size"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:270
+msgid "Tall"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:271
+msgid "Select button size."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:275
+msgid "Annotation"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:278
+msgid "Inline"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:278
+msgid "Bubble"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:279
+msgid "Select annotation type."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:287
+msgid "Pinterest Button"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:294
+msgid "Button layout"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:297
+msgid "No count"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:298
+msgid "Select button layout."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:306
+msgid "FAQ"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:315 ../inc/js_composer/config/map.php:317
+msgid "Toggle title"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:318
+msgid "Toggle block title."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:324
+msgid "Toggle content"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:326
+msgid "<p>Toggle content goes here, click edit button to change this text.</p>"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:327
+msgid "Toggle block content."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:331
+msgid "Default state"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:333
+msgid "Closed"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:333
+msgid "Open"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:334
+msgid "Select \"Open\" if you want toggle to be open by default."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:349
+msgid "Single Image"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:356 ../inc/js_composer/config/map.php:414
+#: ../inc/js_composer/config/map.php:492 ../inc/js_composer/config/map.php:540
+#: ../inc/js_composer/config/map.php:606 ../inc/js_composer/config/map.php:671
+#: ../inc/js_composer/config/map.php:802 ../inc/js_composer/config/map.php:915
+#: ../inc/js_composer/config/map.php:1115
+#: ../inc/js_composer/config/map.php:1145
+#: ../inc/js_composer/config/map.php:1241
+#: ../inc/js_composer/config/map.php:1293
+#: ../inc/js_composer/config/map.php:1412
+#: ../inc/js_composer/config/map.php:1459
+#: ../inc/js_composer/config/map.php:1552
+#: ../inc/js_composer/config/map.php:1574
+#: ../inc/js_composer/config/map.php:1596
+#: ../inc/js_composer/config/map.php:1624
+#: ../inc/js_composer/config/map.php:1646
+#: ../inc/js_composer/config/map.php:1689
+#: ../inc/js_composer/config/map.php:1724
+#: ../inc/js_composer/config/map.php:1755
+#: ../inc/js_composer/config/map.php:1789
+#: ../inc/js_composer/config/map.php:1870
+#: ../inc/js_composer/config/map.php:1899
+#: ../inc/js_composer/config/map.php:1927
+#: ../inc/js_composer/config/map.php:2005
+msgid "Widget title"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:358 ../inc/js_composer/config/map.php:416
+#: ../inc/js_composer/config/map.php:494 ../inc/js_composer/config/map.php:542
+#: ../inc/js_composer/config/map.php:608 ../inc/js_composer/config/map.php:673
+#: ../inc/js_composer/config/map.php:804 ../inc/js_composer/config/map.php:917
+#: ../inc/js_composer/config/map.php:1117
+#: ../inc/js_composer/config/map.php:1147
+#: ../inc/js_composer/config/map.php:1243
+#: ../inc/js_composer/config/map.php:1295
+#: ../inc/js_composer/config/map.php:1414
+#: ../inc/js_composer/config/map.php:1461
+#: ../inc/js_composer/config/map.php:2007
+msgid "What text use as a widget title. Leave blank if no title is needed."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:365
+msgid "Select image from media library."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:376
+msgid "Link to large image?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:378
+msgid "If selected, image will be linked to the bigger image."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:379 ../inc/js_composer/config/map.php:846
+#: ../inc/js_composer/config/map.php:1180
+msgid "Yes, please"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:383
+msgid "Image link"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:385
+msgid "Enter url if you want this image to have link."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:390
+msgid "Link Target"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:407
+msgid "Image Gallery"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:420
+msgid "Gallery type"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:422 ../inc/js_composer/config/map.php:811
+msgid "Flex slider fade"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:422 ../inc/js_composer/config/map.php:811
+msgid "Flex slider slide"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:422 ../inc/js_composer/config/map.php:811
+msgid "Nivo slider"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:422
+msgid "Image grid"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:423
+msgid "Select gallery type."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:427 ../inc/js_composer/config/map.php:546
+#: ../inc/js_composer/config/map.php:822
+msgid "Auto rotate slides"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:430 ../inc/js_composer/config/map.php:549
+#: ../inc/js_composer/config/map.php:825
+msgid "Auto rotate slides each X seconds."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:438
+#: ../inc/js_composer_extend/my_map.php:34
+#: ../inc/js_composer_extend/my_map.php:105
+msgid "Select images from media library."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:448
+msgid "On click"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:450
+msgid "Open prettyPhoto"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:450
+msgid "Do nothing"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:450 ../inc/js_composer/config/map.php:853
+msgid "Open custom link"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:451
+msgid "What to do when slide is clicked?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:455 ../inc/js_composer/config/map.php:858
+msgid "Custom links"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:457 ../inc/js_composer/config/map.php:861
+msgid "Enter links for each slide here. Divide links with linebreaks (Enter)."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:462
+msgid "Custom link target"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:464
+msgid "Select where to open  custom links."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:498
+msgid "Auto rotate tabs"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:501
+msgid "Auto rotate tabs each X seconds."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:518
+msgid "Tab 1"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:519
+msgid "Tab 2"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:529
+msgid "Tour Section"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:566
+msgid "Slide 1"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:567
+msgid "Slide 2"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:583
+msgid "Tab title."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:587
+msgid "Tab ID"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:612
+msgid "Active tab"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:614
+msgid ""
+"Enter tab number to be active on load or enter false to collapse all tabs."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:618
+msgid "Allow collapsible all"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:620
+msgid "Select checkbox to allow for all sections to be be collapsible."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:621
+msgid "Allow"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:635
+msgid "Add accordion section"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:639
+msgid "Section 1"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:640
+msgid "Section 2"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:645
+msgid "Accordion Section"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:655
+msgid "Accordion section title."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:664
+msgid "Teaser (posts) Grid"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:677
+#: ../inc/js_composer/config/map.php:2011
+msgid "Columns count"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:681
+#: ../inc/js_composer/config/map.php:2015
+msgid "Select columns count."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:687 ../inc/js_composer/config/map.php:831
+msgid "Select post types to populate posts from."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:691
+msgid "Teasers count"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:693
+msgid "How many teasers to show? Enter number or word \"All\"."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:699 ../inc/js_composer/config/map.php:837
+#: ../inc/js_composer/config/map.php:2021
+msgid "Teaser (Excerpt)"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:699
+#: ../inc/js_composer/config/map.php:2021
+msgid "Full Content"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:700 ../inc/js_composer/config/map.php:728
+#: ../inc/js_composer/config/map.php:736
+#: ../inc/js_composer/config/map.php:2022
+#: ../inc/js_composer/config/map.php:2049
+#: ../inc/js_composer/config/map.php:2057
+#: ../inc/js_composer_extend/my_map.php:363
+#: ../inc/js_composer_extend/my_map.php:371
+msgid "Teaser layout template."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:707
+#: ../inc/js_composer/config/map.php:2028
+#: ../inc/js_composer/config/map.php:2075
+msgid "Teaser layout."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:711 ../inc/js_composer/config/map.php:851
+#: ../inc/js_composer/config/map.php:2032
+#: ../inc/js_composer/config/map.php:2089
+msgid "Link"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:713 ../inc/js_composer/config/map.php:853
+#: ../inc/js_composer/config/map.php:2034
+msgid "Link to post"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:713 ../inc/js_composer/config/map.php:853
+#: ../inc/js_composer/config/map.php:2034
+msgid "Link to bigger image"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:713
+#: ../inc/js_composer/config/map.php:2034
+msgid "Thumbnail to bigger image, title to post"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:713 ../inc/js_composer/config/map.php:853
+#: ../inc/js_composer/config/map.php:2034
+msgid "No link"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:714 ../inc/js_composer/config/map.php:854
+#: ../inc/js_composer/config/map.php:2035
+msgid "Link type."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:718
+#: ../inc/js_composer/config/map.php:2039
+msgid "Link target"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:725
+#: ../inc/js_composer/config/map.php:2046
+msgid "Teaser grid layout"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:727
+#: ../inc/js_composer/config/map.php:2048
+#: ../inc/js_composer_extend/my_map.php:362
+msgid "Grid with filter"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:727
+#: ../inc/js_composer/config/map.php:2048
+msgid "Carousel"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:732
+#: ../inc/js_composer/config/map.php:2053
+#: ../inc/js_composer_extend/my_map.php:367
+msgid "Layout mode"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:734
+#: ../inc/js_composer/config/map.php:2055
+#: ../inc/js_composer_extend/my_map.php:369
+msgid "Fit rows"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:734
+#: ../inc/js_composer/config/map.php:2055
+#: ../inc/js_composer_extend/my_map.php:369
+msgid "Masonry"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:743
+msgid "Select taxonomies from."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:747 ../inc/js_composer/config/map.php:865
+#: ../inc/js_composer/config/map.php:2061
+msgid "Thumbnail size"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:749 ../inc/js_composer/config/map.php:867
+#: ../inc/js_composer/config/map.php:2063
+msgid ""
+"Enter thumbnail size. Example: thumbnail, medium, large, full or other sizes "
+"defined by current theme. Alternatively enter image size in pixels: 200x100 "
+"(Width x Height)."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:753 ../inc/js_composer/config/map.php:871
+msgid "Post/Page IDs"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:755
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,) to retrieve only "
+"them. Use this in conjunction with \"Post types\" field."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:759
+msgid "Exclude Post/Page IDs"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:761
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,) to exclude them "
+"from query."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:767 ../inc/js_composer/config/map.php:879
+msgid ""
+"If you want to narrow output, enter category names here. Note: Only listed "
+"categories will be included. Divide categories with linebreaks (Enter)."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:771 ../inc/js_composer/config/map.php:883
+#: ../inc/js_composer/config/map.php:890
+msgid "Order by"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:773 ../inc/js_composer/config/map.php:885
+msgid "ID"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:774 ../inc/js_composer/config/map.php:886
+#, php-format
+msgid "Select how to sort retrieved posts. More at %s."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:778
+msgid "Order way"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:781 ../inc/js_composer/config/map.php:893
+#, php-format
+msgid "Designates the ascending or descending order. More at %s."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:795
+msgid "Posts Slider"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:808
+msgid "Slider type"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:812
+msgid "Select slider type."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:816
+msgid "Slides count"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:818
+msgid "How many slides to show? Enter number or word \"All\"."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:837
+msgid "No description"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:838
+msgid "Some sliders support description text, what content use for it?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:843
+msgid "Output post title?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:845
+msgid "If selected, title will be printed before the teaser text."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:873
+msgid ""
+"Fill this field with page/posts IDs separated by commas (,), to retrieve "
+"only them. Use this in conjunction with \"Post types\" field."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:907
+msgid "Widgetised Sidebar"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:911
+#: ../inc/js_composer/config/map.php:1197
+#: ../inc/js_composer/config/map.php:1217
+msgid "Structure"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:921
+msgid "Sidebar"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:923
+msgid "Select which widget area output."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:938
+msgid "Address book icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:939
+msgid "Alarm clock icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:940
+msgid "Anchor icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:941
+msgid "Application Image icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:942
+msgid "Arrow icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:943
+msgid "Asterisk icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:944
+msgid "Hammer icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:945
+msgid "Balloon icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:946
+msgid "Balloon Buzz icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:947
+msgid "Balloon Facebook icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:948
+msgid "Balloon Twitter icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:949
+msgid "Battery icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:950
+msgid "Binocular icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:951
+msgid "Document Excel icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:952
+msgid "Document Image icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:953
+msgid "Document Music icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:954
+msgid "Document Office icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:955
+msgid "Document PDF icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:956
+msgid "Document Powerpoint icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:957
+msgid "Document Word icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:958
+msgid "Bookmark icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:959
+msgid "Camcorder icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:960
+msgid "Camera icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:961
+msgid "Chart icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:962
+msgid "Chart pie icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:963
+msgid "Clock icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:964
+msgid "Fire icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:965
+msgid "Heart icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:966
+msgid "Mail icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:967
+msgid "Play icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:968
+msgid "Shield icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:969
+msgid "Video icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:973
+msgid "Button"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:985
+#: ../inc/js_composer/config/map.php:1052
+msgid "Text on the button."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:989
+#: ../inc/js_composer/config/map.php:1056
+msgid "URL (Link)"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:991
+#: ../inc/js_composer/config/map.php:1058
+msgid "Button link."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:995
+#: ../inc/js_composer/config/map.php:1062
+msgid "Target"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1002
+#: ../inc/js_composer/config/map.php:1069
+msgid "Color"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1005
+#: ../inc/js_composer/config/map.php:1072
+msgid "Button color."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1009
+#: ../inc/js_composer/config/map.php:1076
+msgid "Icon"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1012
+#: ../inc/js_composer/config/map.php:1079
+msgid "Button icon."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1016
+#: ../inc/js_composer/config/map.php:1083
+msgid "Size"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1019
+#: ../inc/js_composer/config/map.php:1086
+msgid "Button size."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1034
+msgid "Call to Action Button"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1044
+msgid "Click edit button to change this text."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1090
+msgid "Button position"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1092
+msgid "Align bottom"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1093
+msgid "Select button alignment."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1108
+msgid "Video Player"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1121
+#: ../inc/js_composer_extend/my_map.php:46
+msgid "Video link"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1124
+#: ../inc/js_composer_extend/my_map.php:49
+#, php-format
+msgid "Link to the video. More about supported formats at %s."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1138
+msgid "Google Maps"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1151
+msgid "Google map link"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1154
+#, php-format
+msgid ""
+"Link to your map. Visit %s find your address and then click \"Link\" button "
+"to obtain your map link."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1158
+msgid "Map height"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1160
+msgid "Enter map height in pixels. Example: 200."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1164
+msgid "Map type"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1166
+msgid "Map"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1166
+msgid "Satellite"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1166
+msgid "Map + Terrain"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1167
+msgid "Select map type."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1171
+msgid "Map Zoom"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1173
+msgid "14 - Default"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1177
+msgid "Remove info bubble"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1179
+msgid "If selected, information bubble will be hidden."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1194
+#: ../inc/js_composer/config/map.php:1203
+msgid "Raw HTML"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1206
+msgid "Enter your HTML content."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1214
+msgid "Raw JS"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1223
+msgid "Raw js"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1226
+msgid "Enter your JS code."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1235
+msgid "Flickr Widget"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1247
+msgid "Flickr ID"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1250
+#, php-format
+msgid "To find your flickID visit %s."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1254
+msgid "Number of photos"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1257
+msgid "Number of photos."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1261
+msgid "Type"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1263
+msgid "Group"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1264
+msgid "Photo stream type."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1268
+msgid "Display"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1270
+msgid "Latest"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1271
+msgid "Photo order."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1286
+msgid "Progress Bar"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1299
+msgid "Graphic values"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1301
+msgid ""
+"Input graph values here. Divide values with linebreaks (Enter). Example: 90|"
+"Development"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1306
+msgid "Units"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1308
+msgid ""
+"Enter measurement units (if needed) Eg. %, px, points, etc. Graph value and "
+"unit will be appended to the graph title."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1312
+msgid "Bar color"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1314
+msgid "Grey"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1314
+msgid "Turquoise"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1314
+msgid "Green"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1314
+msgid "Orange"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1314
+msgid "Black"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1314
+msgid "Custom Color"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1315
+msgid "Select bar background color."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1320
+msgid "Bar custom color"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1322
+msgid "Select custom background color for bars."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1329
+msgid "Add Stripes?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1329
+msgid "Add animation? Will be visible with striped bars."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1364
+msgid "Contact Form 7"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1370
+msgid "Form title"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1373
+msgid "What text use as form title. Leave blank if no title is needed."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1377
+msgid "Select contact form"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1380
+msgid "Choose previously created contact form from the drop down list."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1406
+msgid "Layer Slider"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1418
+msgid "LayerSlider ID"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1422
+msgid "Select your LayerSlider."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1453
+#: ../inc/js_composer/config/map.php:1465
+msgid "Revolution Slider"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1469
+msgid "Select your Revolution Slider."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1482
+msgid "No Gravity forms found."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1486
+msgid "Select a form to display."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1493
+msgid "Gravity Form"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1500
+msgid "Form"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1503
+msgid "Select a form to add it to your post or page."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1508
+msgid "Display Form Title"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1511
+msgid "Would you like to display the forms title?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1516
+msgid "Display Form Description"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1519
+msgid "Would you like to display the forms description?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1524
+msgid "Enable AJAX?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1527
+msgid "Enable AJAX submission?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1532
+msgid "Tab Index"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1534
+msgid ""
+"(Optional) Specify the starting tab index for the fields of this form. Leave "
+"blank if you're not sure what this is."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1547
+#: ../inc/js_composer/config/map.php:1569
+#: ../inc/js_composer/config/map.php:1591
+#: ../inc/js_composer/config/map.php:1619
+#: ../inc/js_composer/config/map.php:1641
+#: ../inc/js_composer/config/map.php:1684
+#: ../inc/js_composer/config/map.php:1719
+#: ../inc/js_composer/config/map.php:1750
+#: ../inc/js_composer/config/map.php:1784
+#: ../inc/js_composer/config/map.php:1824
+#: ../inc/js_composer/config/map.php:1865
+#: ../inc/js_composer/config/map.php:1894
+#: ../inc/js_composer/config/map.php:1922
+msgid "WordPress Widgets"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1554
+#: ../inc/js_composer/config/map.php:1576
+#: ../inc/js_composer/config/map.php:1598
+#: ../inc/js_composer/config/map.php:1626
+#: ../inc/js_composer/config/map.php:1648
+#: ../inc/js_composer/config/map.php:1691
+#: ../inc/js_composer/config/map.php:1726
+#: ../inc/js_composer/config/map.php:1757
+#: ../inc/js_composer/config/map.php:1791
+#: ../inc/js_composer/config/map.php:1872
+#: ../inc/js_composer/config/map.php:1901
+#: ../inc/js_composer/config/map.php:1929
+msgid ""
+"What text use as a widget title. Leave blank to use default widget title."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1602
+msgid "Number of comments to show"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1616
+msgid "Calendar"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1652
+#: ../inc/js_composer/config/map.php:1836
+msgid "Sort by"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1654
+msgid "Page title"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1654
+msgid "Page order"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1654
+msgid "Page ID"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1659
+msgid "Exclude"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1661
+msgid "Page IDs, separated by commas."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1681
+msgid "Tag Cloud"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1716
+msgid "Custom Menu"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1730
+msgid "Menu"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1733
+msgid "Select menu"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1795
+msgid "Number of posts to show"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1801
+#: ../inc/js_composer/config/map.php:1803
+msgid "Display post date?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1815
+msgid "All Links"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1821
+msgid "Links"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1829
+msgid "Link Category"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1838
+msgid "Link title"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1838
+msgid "Link rating"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1838
+msgid "Link ID"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1844
+msgid "Show Link Image"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1844
+msgid "Show Link Name"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1844
+msgid "Show Link Description"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1844
+msgid "Show Link Rating"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1848
+msgid "Number of links to show"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1878
+#: ../inc/js_composer/config/map.php:1907
+msgid "Display as dropdown"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1878
+#: ../inc/js_composer/config/map.php:1907
+msgid "Show post counts"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1878
+msgid "Show hierarchy"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1919
+msgid "RSS"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1933
+msgid "RSS feed URL"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1935
+msgid "Enter the RSS feed URL."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1942
+msgid "10 - Default"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1943
+msgid "How many items would you like to display?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1950
+msgid "Display item content?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1950
+msgid "Display item author if available?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1950
+msgid "Display item date?"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:1999
+msgid "Posts grid"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:2079
+msgid "Loop"
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:2085
+msgid "Create super mega query."
+msgstr ""
+
+#: ../inc/js_composer/config/map.php:2091
+msgid "This adds a link selection box"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:18
+msgid "Header for the section"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:20
+msgid "Optional Header for the section"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:26
+msgid "Make it stand-out section?"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:29
+msgid "Do you want this section to stand-out and be different color than body?"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:35
+msgid "Background custom color"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:37
+msgid ""
+"Select custom background color for this section, or leave blank to be "
+"default as specified in theme settings."
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:44
+msgid "Text custom color"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:46
+msgid ""
+"Select custom text color for this section, or leave blank to be default as "
+"specified in theme settings."
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:53
+msgid "Do you want contents of the row to be full width?"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:56
+msgid ""
+"If you want this row to occupy full width of the browser screen - check it."
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:62
+msgid "CSS Class for a wrapper div (leave blank to not wrap with in a div)"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:64
+msgid ""
+"If you wish to wrap this row in another div with custom class - input that "
+"class here."
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:77
+#: ../inc/js_composer_extend/my_map.php:424
+msgid "Text Align"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:79
+#: ../inc/js_composer_extend/my_map.php:426
+msgid "Auto"
+msgstr ""
+
+#: ../inc/js_composer_extend/extend.php:80
+#: ../inc/js_composer_extend/my_map.php:427
+msgid "Align text of the section."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:3
+msgid "Inverse"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:17
+msgid "Framed Item"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:27
+msgid "Select content type."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:55
+msgid "Frame type"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:57
+msgid "Picture Frame"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:58
+#: ../inc/js_composer_extend/my_map.php:79
+msgid "Select a browser frame type you want to show depending on your images."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:62
+msgid "Browser URL"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:64
+msgid "Text to appear in a browser address bar"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:69
+msgid "Faded Text"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:71
+msgid "Fade image with some text."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:76
+msgid "Slider Type"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:78
+msgid "Flexslider"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:78
+msgid "Bootstrap"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:83
+msgid "Hide Buttons"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:86
+msgid "Do you want to hide browser buttons (prev, next, refresh)."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:95
+msgid "Clients"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:118
+#: ../inc/js_composer_extend/my_map.php:149
+#: ../inc/js_composer_extend/my_map.php:182
+#: ../inc/js_composer_extend/my_map.php:215
+#: ../inc/js_composer_extend/my_map.php:279
+#: ../inc/js_composer_extend/my_map.php:335
+msgid "Text to appear as a section title"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:122
+#: ../inc/js_composer_extend/my_map.php:153
+#: ../inc/js_composer_extend/my_map.php:283
+#: ../inc/js_composer_extend/my_map.php:346
+msgid "Items per row"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:124
+#: ../inc/js_composer_extend/my_map.php:155
+#: ../inc/js_composer_extend/my_map.php:221
+#: ../inc/js_composer_extend/my_map.php:285
+#: ../inc/js_composer_extend/my_map.php:348
+msgid "One"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:124
+#: ../inc/js_composer_extend/my_map.php:155
+#: ../inc/js_composer_extend/my_map.php:221
+#: ../inc/js_composer_extend/my_map.php:285
+#: ../inc/js_composer_extend/my_map.php:348
+msgid "Two"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:124
+#: ../inc/js_composer_extend/my_map.php:155
+#: ../inc/js_composer_extend/my_map.php:221
+#: ../inc/js_composer_extend/my_map.php:285
+#: ../inc/js_composer_extend/my_map.php:348
+msgid "Three"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:124
+#: ../inc/js_composer_extend/my_map.php:155
+#: ../inc/js_composer_extend/my_map.php:221
+#: ../inc/js_composer_extend/my_map.php:285
+#: ../inc/js_composer_extend/my_map.php:348
+msgid "Four"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:124
+#: ../inc/js_composer_extend/my_map.php:155
+#: ../inc/js_composer_extend/my_map.php:221
+#: ../inc/js_composer_extend/my_map.php:285
+#: ../inc/js_composer_extend/my_map.php:348
+msgid "Six"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:125
+#: ../inc/js_composer_extend/my_map.php:156
+#: ../inc/js_composer_extend/my_map.php:222
+#: ../inc/js_composer_extend/my_map.php:349
+msgid "Select number of items to show per row."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:139
+#: ../inc/js_composer_extend/my_map.php:205
+#: ../inc/js_composer_extend/my_map.php:269
+#: ../inc/js_composer_extend/my_map.php:353
+msgid "Limit"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:142
+msgid "Total number of team members to show"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:160
+msgid "Show icons?"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:163
+msgid "Do you want to show icons or just text labels for social items."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:186
+msgid "Currency symbol position"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:188
+msgid "Before"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:188
+msgid "After"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:189
+msgid "Select where to show a currency symbol"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:208
+msgid "Total number of posts to show"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:219
+msgid "Posts per row"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:231
+msgid "Iconed Feature"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:237
+msgid "Icon Type"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:240
+msgid "Class of the icon"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:247
+msgid "Text to appear as a feature title"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:254
+msgid "Text to appear for the feature"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:272
+msgid "Total number of testimonials to show"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:286
+msgid "Select number of testimonials to show per row."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:290
+msgid "Visual Style"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:292
+msgid "Toggle on click"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:292
+msgid "Opened"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:293
+msgid "Choose how do you want to output testimonials"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:302
+msgid "Content Slider"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:308
+msgid "Slide IDs (optional)"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:311
+msgid ""
+"Fill this field with slide IDs separated by commas (,), to retrieve only "
+"them."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:315
+msgid "Delay"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:318
+msgid "Delay between autoslide, set to 0 to disable autoslide."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:326
+msgid "Portfolio Block"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:339
+msgid "Icon Class"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:342
+msgid "Icon to use with a title"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:356
+msgid "Total number of portfolio items to show (leave blank to have no limit)"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:360
+msgid "Grid layout"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:375
+msgid "Show item title?"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:381
+msgid "Show item category?"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:387
+msgid "Show item excerpt?"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:393
+msgid "Show details link?"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:399
+msgid "Show lightbox link?"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:405
+msgid "Which fields to show only on hover"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:407
+msgid "Everything"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:409
+msgid "Excerpt and buttons"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:410
+msgid "Which fields should be visible only on hover."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:414
+msgid "Flipping Effect"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:417
+msgid "Style 1"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:418
+msgid "Style 2"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:419
+msgid "Style 3"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:420
+msgid ""
+"Choose a flipping effect for hover on meta info, or select None to always "
+"show meta info."
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:431
+msgid "Size of buttons"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:437
+msgid "Details button color"
+msgstr ""
+
+#: ../inc/js_composer_extend/my_map.php:443
+msgid "Lightbox button color"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:21
+msgid ""
+"Unfortunately your order cannot be processed as the originating bank/"
+"merchant has declined your transaction."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:25
+msgid "Please attempt your purchase again or go to your account page."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:27
+msgid "Please attempt your purchase again."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:31
+#: ../woocommerce/myaccount/my-orders.php:73
+msgid "Pay"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:33
+msgid "My Account"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:39
+#: ../woocommerce/checkout/thankyou.php:70
+msgid "Thank you. Your order has been received."
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:43
+msgid "Order:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:47
+msgid "Date:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:51
+msgid "Total:"
+msgstr ""
+
+#: ../woocommerce/checkout/thankyou.php:56
+msgid "Payment method:"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:19
+msgid "Change Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:21
+#: ../woocommerce/myaccount/form-lost-password.php:32
+msgid "New password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-change-password.php:25
+#: ../woocommerce/myaccount/form-lost-password.php:36
+msgid "Re-enter new password"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:22
+msgid "Password Recovery"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:23
+msgid ""
+"Lost your password? Please enter your username or email address. You will "
+"receive a link to create a new password via email."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:25
+msgid "Username or email"
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:29
+msgid "Enter a new password below."
+msgstr ""
+
+#: ../woocommerce/myaccount/form-lost-password.php:46
+msgid "Reset Password"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-account.php:22
+#, php-format
+msgid ""
+"Hello, <strong>%s</strong>. From your account dashboard you can view your "
+"recent orders, manage your shipping and billing addresses and <a href=\"%s"
+"\">change your password</a>."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:17
+msgid "My Addresses"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:19
+#: ../woocommerce/myaccount/my-address.php:25
+#: ../woocommerce/order/order-details.php:118
+msgid "Billing Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:20
+#: ../woocommerce/order/order-details.php:133
+msgid "Shipping Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:23
+msgid "My Address"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:36
+msgid "The following addresses will be used on the checkout page by default."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-address.php:66
+msgid "You have not set up this type of address yet."
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:20
+msgid "Available downloads"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-downloads.php:29
+#, php-format
+msgid "%s download remaining"
+msgid_plural "%s downloads remaining"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:28
+msgid "Recent Orders"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:36
+msgid "Status"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:37
+#: ../woocommerce/order/order-details.php:24
+msgid "Total"
+msgstr ""
+
+#: ../woocommerce/myaccount/my-orders.php:64
+#, php-format
+msgid "%s for %s item"
+msgid_plural "%s for %s items"
+msgstr[0] ""
+msgstr[1] ""
+
+#: ../woocommerce/myaccount/my-orders.php:84
+msgid "View"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:19
+msgid "Order Details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:23
+msgid "Product"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:67
+#, php-format
+msgid "Download file%s"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:93
+msgid "Order Again"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:100
+msgid "Customer details"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:104
+msgid "Email:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:105
+msgid "Telephone:"
+msgstr ""
+
+#: ../woocommerce/order/order-details.php:122
+#: ../woocommerce/order/order-details.php:137
+msgid "N/A"
+msgstr ""

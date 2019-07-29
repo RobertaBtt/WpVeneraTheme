@@ -1,0 +1,376 @@
+
+
+/**
+* --------------------------------------------------------
+* --------------------------------------------------------
+*
+* PORTFOLIO SIDEBAR WIDGETS
+*
+* --------------------------------------------------------
+* --------------------------------------------------------
+**/
+
+
+.portfolio-sidebar-w {
+  .widget {
+    margin-bottom: 40px;
+    .widget-title {
+      border-bottom: 1px solid darken(@bodyBackground, 15%);
+      padding-bottom: 10px;
+      margin-bottom: 20px;
+    }
+  }
+  .widget_related_portfolio_items {
+    .framed-posts {
+      margin-top: 20px;
+    }
+  }
+}
+
+
+
+
+
+
+
+/**
+* --------------------------------------------------------
+* --------------------------------------------------------
+*
+* DEFAULT SIDEBAR WIDGETS
+*
+* --------------------------------------------------------
+* --------------------------------------------------------
+**/
+
+
+
+aside.default-sidebar, aside.shop-sidebar {
+  .widget {
+    margin-bottom: 40px;
+    .widget-title {
+      .second-font();
+      color: @sidebarTitleColor;
+      border-bottom: 1px solid darken(@bodyBackground, 8%);
+    }
+  }
+  .widget_calendar {
+    table {
+      width: 100%;
+      caption {
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        border-bottom: 1px solid darken(@bodyBackground, 5%);
+      }
+      thead {
+        border-bottom: 1px solid darken(@bodyBackground, 5%);
+        th {
+          padding-bottom: 5px;
+        }
+      }
+      tbody {
+        border-bottom: 1px solid darken(@bodyBackground, 5%);
+        tr:first-child td {
+          padding-top: 5px;
+        }
+        tr:last-child td {
+          padding-bottom: 5px;
+        }
+      }
+      tfoot {
+        tr td {
+          padding-top: 10px;
+        }
+        td#prev {
+          text-align: left;
+        }
+        td#next {
+          text-align: right;
+        }
+      }
+    }
+  }
+
+  /* WIDGET CATEGORIES LIST */
+  .widget_categories, .widget_product_categories {
+    .second-font();
+
+    ul {
+      list-style: none;
+      margin-left: 0px;
+      li {
+        margin-bottom: 10px;
+        padding: 10px;
+        .box-shadow(@sidebarCategoriesShadow);
+        background-color: @sidebarCategoriesBackground;
+        display: block;
+        border-left: 5px solid @sidebarCategoriesHighlight;
+        .transition(all .2s linear);
+        color: darken(@sidebarCategoriesColor, 10%);
+        a {
+          color: @sidebarCategoriesColor;
+        }
+        &:hover {
+          background-color: @sidebarCategoriesBackgroundHover;
+          border-left: 15px solid @sidebarCategoriesHighlightHover;
+          a {
+            text-decoration: none;
+          }
+        }
+      }
+    }
+  }
+
+  /* WIDGET TAG CLOUD */
+  .widget_tag_cloud {
+    .tagcloud {
+      .clearfix;
+      a {
+        padding: 3px 5px;
+        background-color: @sidebarTagBackground;
+        color: @sidebarTagColor;
+        text-decoration: none;
+        font-size: @baseFontSize - 3px!important;
+        line-height: @baseLineHeight - 5px;
+        .inline-block();
+        margin-bottom: 5px;
+        // .box-shadow(1px 1px 1px 0px rgba(0, 0, 0, 0.6));
+        .box-shadow(@sidebarTagShadow);
+        text-shadow: @sidebarTagTextShadow;
+        .border-radius(@sidebarTagRadius);
+
+        &:hover {
+          background-color: darken(@sidebarTagBackground, 10%);
+        .box-shadow(none);
+        }
+      }
+    }
+  }
+
+  /* WIDGET TEXT */
+  .widget_text {
+    padding: 20px;
+    background-color: @sidebarTextWidgetBackground;
+    .box-shadow(@sidebarTextWidgetShadow);
+    .border-radius(@sidebarTextWidgetRadius);
+    border: @sidebarTextWidgetBorder;
+
+    .widget-title {
+      font-weight: @secondaryFontWeightBold;
+      border-bottom: 1px dashed darken(@sidebarTextWidgetBackground, 60%);
+      margin-top: 0px;
+      padding-bottom: 5px;
+      color: @sidebarTextWidgetHeadingsColor;
+    }
+  }
+
+  /* WIDGET WITH LINKS TO POSTS (RECENT, POPULAR ETC...) */
+  .widget_recent_entries, .widget_archive, .widget_categories, .widget_pages, .widget_meta, .widget_recent_comments, .widget_rss, .widget_nav_menu{
+    color: @sidebarCategoriesColor;
+    ul {
+      list-style-type: square;
+    }
+    a {
+      color: @sidebarCategoriesColor;
+      line-height: @baseLineHeight + 4;
+    }
+  }
+
+  /* WIDGET SEARCH FORM */
+  .widget_search, .widget_product_search {
+    label {
+      display: none;
+    }
+    input#s {
+      border: @sidebarWidgetSearchBorder; // #dddbca
+      border-color: @sidebarWidgetSearchBorderColors;
+      .border-radius(@sidebarWidgetSearchRadius);
+      .box-shadow(@sidebarWidgetSearchShadow);
+      background-color: @sidebarWidgetSearchBackground;
+      padding: 10px;
+      height: 44px;
+      .input-block-level;
+      &:focus {
+        border: @sidebarWidgetSearchBorderHover;
+      }
+    }
+    #searchsubmit {
+      display: none;
+    }
+    .searchform, #searchform {
+      position: relative;
+      &:before {
+        font-family: FontAwesome;
+        content: "\f002";
+        position: absolute;
+        right: 10px;
+        top: 0px;
+        font-size: 22px;
+        line-height: 44px;
+        color: @sidebarWidgetSearchIconColor;
+      }
+    }
+  }
+}
+
+
+
+
+
+
+
+/**
+* --------------------------------------------------------
+* --------------------------------------------------------
+*
+* FOOTER AREA WIDGETS
+*
+* --------------------------------------------------------
+* --------------------------------------------------------
+**/
+
+
+section.page-pre-footer {
+  .widget {
+    .widget-title {
+      .second-font;
+      color: @preFooterHeadingsColor;
+      border-bottom: 5px solid darken(@preFooterBackground, 5%);
+
+      i {
+        margin-right: 10px;
+      }
+    }
+  }
+
+  /* WIDGET THAT HOLDS CONTACT INFO */
+  .widget_text {
+    // .second-font;
+    // text-transform: uppercase;
+    color: @preFooterColor;
+
+    ul {
+      margin: 0px;
+      list-style: none;
+    }
+    strong {
+      color: lighten(@preFooterColor, 5%);
+    }
+  }
+
+  /* WIDGET WITH TAGS */
+  .widget_tag_cloud {
+    .tagcloud {
+      a {
+        padding: 2px 5px;
+        background-color: @footerTagBackground;
+        color: @footerTagColor;
+        text-shadow: @footerTagTextShadow;
+        text-transform: uppercase;
+        border: @footerTagBorder;
+        margin-left: 5px;
+        .inline-block();
+        margin-bottom: 5px;
+        .box-shadow(@footerTagShadow);
+        .border-radius(@footerTagRadius);
+        font-size: 14px!important;
+        line-height: 18px!important;
+        &:hover {
+          text-decoration: none;
+          background-color: lighten(@footerTagBackground, 10%);
+        }
+      }
+    }
+  }
+
+  /* WIDGET WITH LINKS TO POSTS (RECENT, POPULAR ETC...) */
+  .widget_recent_entries, .widget_archive, .widget_categories, .widget_pages, .widget_meta, .widget_recent_comments, .widget_rss, .widget_nav_menu{
+    color: @preFooterColor;
+    ul {
+      list-style-type: square;
+    }
+    a {
+      color: @preFooterColor;
+      font-size: @baseFontSize - 2;
+    }
+  }
+
+  .widget_calendar {
+    table {
+      width: 100%;
+      color: @preFooterColor;
+      caption {
+        padding-bottom: 5px;
+        margin-bottom: 5px;
+        border-bottom: 1px solid lighten(@preFooterBackground, 10%);
+      }
+      thead {
+        border-bottom: 1px solid lighten(@preFooterBackground, 10%);
+        th {
+          padding-bottom: 5px;
+        }
+      }
+      tbody {
+        border-bottom: 1px solid lighten(@preFooterBackground, 10%);
+        margin-bottom: 5px;
+        tr:first-child td {
+          padding-top: 5px;
+        }
+        tr:last-child td {
+          padding-bottom: 5px;
+        }
+      }
+      tfoot {
+        tr td {
+          padding-top: 10px;
+        }
+        td#prev {
+          text-align: left;
+        }
+        td#next {
+          text-align: right;
+        }
+      }
+    }
+    a {
+      color: @preFooterColor;
+    }
+  }
+
+  /* WIDGET SEARCH FORM */
+  .widget_search {
+    label {
+      display: none;
+    }
+    input#s {
+      border: 1px solid darken(@preFooterBackground, 15%);
+      .border-radius(@sidebarWidgetSearchRadius);
+      .box-shadow(none);
+      background-color: darken(@preFooterBackground, 5%);
+      color: mix(@preFooterColor, @preFooterBackground, 40%);
+      padding: 10px;
+      height: 44px;
+      .input-block-level;
+      .placeholder-color(mix(@preFooterColor, @preFooterBackground, 40%));
+      &:focus {
+        border: 1px solid darken(@preFooterBackground, 30%);
+      }
+    }
+    #searchsubmit {
+      display: none;
+    }
+    .searchform {
+      position: relative;
+      &:before {
+        font-family: FontAwesome;
+        content: "\f002";
+        position: absolute;
+        right: 10px;
+        top: 0px;
+        font-size: 22px;
+        line-height: 44px;
+        color: mix(@preFooterColor, @preFooterBackground, 40%);
+      }
+    }
+  }
+}

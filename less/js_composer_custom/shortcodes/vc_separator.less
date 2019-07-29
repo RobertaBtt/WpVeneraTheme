@@ -1,0 +1,41 @@
+.wpb_separator,
+.vc_text_separator {
+  border-bottom: 1px solid @vc_separator_border;
+}
+/* Separator
+---------------------------------------------------------- */
+.wpb_separator {
+  clear: both;
+  height: 1px;
+  background-color: darken(@bodyBackground, 25%);
+  .box-shadow(0px -4px 0px 0px darken(@bodyBackground, 5%));
+  border-bottom: 6px solid lighten(@bodyBackground, 5%);
+}
+
+/* Text Separator
+---------------------------------------------------------- */
+.vc_text_separator {
+  //position: relative;
+  //top: -20px;
+  clear: both;
+  .box-shadow(~"0px 1px 0px 0px" darken(@bodyBackground, 25%)~", 0px -1px 0px 0px" darken(@bodyBackground, 25%)~", 0px 4px 0px 0px" darken(@bodyBackground, 5%)~", 0px -4px 0px 0px" darken(@bodyBackground, 5%));
+  border-bottom: 6px solid lighten(@bodyBackground, 5%);
+  border-top: 6px solid lighten(@bodyBackground, 5%);
+  font-size: 24px;
+  font-weight: @secondaryFontWeightNormal;
+  font-family: @secondaryFontFamily;
+  color: @primaryTextColor;
+  div {
+    padding: 35px 20px;
+  }
+}
+
+.separator_align_center {
+  text-align: center;
+}
+.separator_align_left {
+  text-align: left;
+}
+.separator_align_right {
+  text-align: right;
+}

@@ -265,12 +265,12 @@ function venera_scripts() {
     case 'color4':
       wp_enqueue_style( 'color-scheme-four', get_template_directory_uri() . '/less/colors/color4.less', array(), VENERA_THEME_VERSION );
     break;
-    case 'color5':
-      wp_enqueue_style( 'color-scheme-five', get_template_directory_uri() . '/less/colors/color5.less', array(), VENERA_THEME_VERSION );
-    break;
-    default:
-      wp_enqueue_style( 'color-scheme-one', get_template_directory_uri() . '/less/colors/color1.less', array(), VENERA_THEME_VERSION );
-    break;
+//    case 'color5':
+//      wp_enqueue_style( 'color-scheme-five', get_template_directory_uri() . '/less/colors/color5.less', array(), VENERA_THEME_VERSION );
+//    break;
+//    default:
+//      wp_enqueue_style( 'color-scheme-one', get_template_directory_uri() . '/less/colors/color1.less', array(), VENERA_THEME_VERSION );
+//    break;
   }
 
   wp_enqueue_style( 'venera-font-awesome', get_template_directory_uri() . '/less/font-awesome/font-awesome.less', array(), VENERA_THEME_VERSION );

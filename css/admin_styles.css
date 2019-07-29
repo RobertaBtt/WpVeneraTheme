@@ -1,0 +1,50 @@
+#post-body .acf_postbox .acf-tab-group li {
+  margin-right: 3px;
+}
+#post-body .acf_postbox .acf-tab-group li a {
+  font-size: 14px;
+  font-weight: 200;
+  padding: 8px 12px;
+}
+#post-body .acf_postbox .field_type-message {
+  padding: 10px 15px;
+  background-color: #E5F2FD;
+}
+#post-body .acf_postbox .field_type-message h1 {
+  font-size: 18px;
+  line-height: 22px;
+  margin-bottom: 10px;
+  font-weight: 200;
+  border-bottom: 1px solid #BACFE0;
+  box-shadow: 0px 2px 0px 0px #F7FBFF;
+  padding-bottom: 5px;
+}
+#post-body .acf_postbox .field_type-message h2 {
+  font-size: 22px;
+  padding: 0px;
+  margin: 0px;
+}
+#post-body .acf_postbox .field_type-message .howto {
+  font-style: normal;
+  font-weight: 200;
+  font-size: 12px;
+  line-height: 16px;
+  margin-top: 0px;
+  color: #818B96;
+}
+#post-body .acf_postbox p.label {
+  font-weight: 200;
+  font-size: 12px;
+  line-height: 16px;
+}
+#post-body .acf_postbox p.label label {
+  font-size: 16px;
+  line-height: 20px;
+  font-weight: 700;
+}
+#post-body .acf_postbox .field {
+  border-bottom: 1px solid #CACACA;
+  box-shadow: 0px 2px 0px 0px #fff;
+  padding: 20px 15px;
+}
+/*# sourceMappingURL=admin_styles.css.map */

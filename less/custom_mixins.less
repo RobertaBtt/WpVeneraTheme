@@ -1,0 +1,27 @@
+.transform(@string){
+  -webkit-transform: @string;
+  -moz-transform:    @string;
+  -ms-transform:     @string;
+  -o-transform:      @string;
+}
+.transition-transform (@transformArguments, @anotherProperty) {
+  -webkit-transition: -webkit-transform @transformArguments, @anotherProperty;
+  -moz-transition: -moz-transform @transformArguments, @anotherProperty;
+  -ms-transition: -ms-transform @transformArguments, @anotherProperty;
+  -o-transition: -o-transform @transformArguments, @anotherProperty;
+  transition: transform @transformArguments, @anotherProperty;
+}
+.placeholder-color(@color){
+  &::-webkit-input-placeholder { /* WebKit browsers */
+    color:    @color;
+  }
+  &:-moz-placeholder { /* Mozilla Firefox 4 to 18 */
+    color:    @color;
+  }
+  &::-moz-placeholder { /* Mozilla Firefox 19+ */
+    color:    @color;
+  }
+  &:-ms-input-placeholder { /* Internet Explorer 10+ */
+    color:    @color;
+  }
+}
