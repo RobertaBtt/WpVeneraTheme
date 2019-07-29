@@ -1,6 +1,6 @@
 <?php
 /*
- * Template Name: Blog Full Width Cards
+ * Template Name: Blog Full Width Venera
  */
 get_header();
 ?>
